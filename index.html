@@ -11,7 +11,8 @@ pagination:
       {% for post in paginator.posts %}
 
         <!-- The tag below includes the markup for each post - partials/post-card.html -->
-        {% include post-card.html %}
+        <!--{% include post-card.html %}-->
+        <p>{{post.title}}</p>
 
       {% endfor %}
     </div>
