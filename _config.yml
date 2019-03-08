@@ -15,7 +15,7 @@ url: http://advancedheliophysics.com/
 default_img: /assets/images/seo.jpg
 
 # Contact settings
-contact_img: /assets/images/placeholder-28.jpg
+contact_img: /assets/images/flare.jpg
 formcarry: https://formcarry.com/s/6Q8qG-pWyt6
 
 # Author settings
@@ -43,3 +43,4 @@ exclude:
   - gulpfile.js
   - package.json
   - README.md
+  - "*.swp"
