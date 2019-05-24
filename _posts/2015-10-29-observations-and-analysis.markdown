@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Observations and Analysis of the Non-Radial Propagation of Coronal Mass Ejections Near the Sun"
+date: 2015-10-29
+description: 
+image: /assets/images/observations-and-analysis.png
+---
+The trajectories of coronal mass ejection (CME) are often observed to deviate from radial propagation from the source while within the coronagraph field of view (R <15 - 30 R_{sun}). To better understand nonradial propagation within the corona, we first analyze the trajectories of five CMEs for which both the source and 3D trajectory (latitude, longitude, and velocity) can be well determined from solar imaging observations, primarily using observations from the twin Solar TErrestrial RElations Observatory (STEREO) spacecraft. Next we analyze the cause of any nonradial propagation using a potential field source surface (PFSS) model to determine the direction of the magnetic pressure forces exerted on the CME at various heights in the corona. In two cases, we find that the CME deviation from radial propagation primarily occurs before it reaches the coronagraph field of view (below 1.5 solar radii). Based on the observations and the magnetic pressure forces calculated from the PFSS model, we conclude that for these cases the deviation is the result of strong active-region fields causing an initial asymmetric expansion of the CME that gives rise to the apparent rapid deflection and nonradial propagation from the source. Within the limitations of the PFSS model, the magnetic fields for all five cases appear to guide the CMEs out of the corona through the weak-field region around the heliospheric current sheet even when the current sheet is inclined and warped. 

@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Large-scale Magnetic Funnels in the Solar Corona "
+date: 2019-02-28
+description: 
+image: /assets/images/magnetic-funnels.png
+---
+We describe open coronal magnetic fields with a specific geometry - large-scale coronal magnetic funnels - that are found to play an important role in coronal dynamics. Coronal magnetic funnels can be attributed to three main factors: (i) the presence of pseudostreamer(s), (ii) the presence of filament channels, and (iii) the presence of active regions in the close vicinity of a pseudostreamer. The geometry of magnetic funnels displays a strongly nonmonotonic expansion below 2 R_{sun}. We present a detailed study of a funnel arising from a double pseudostreamer near the equator, formed between a triplet of coronal holes of the same polarity. By following the evolution of these coronal holes we find that the pseudostreamer and, therefore, funnel topology, changes when two coronal holes have merged together. The funnel geometry of the open magnetic field becomes smoother, with a monotonic expansion factor, after this merging. The presence of magnetic funnels is indirectly confirmed by the appearance of coronal cloud prominences in the solar corona, typically in the 304 Angstrom passband, as a result of colder plasma debris falling back toward the Sun in the wake of eruptions in the surrounding atmosphere. The coronal clouds appear suspended at heights of 1.2-1.3 R_{sun}, coinciding with the region of strongest gradients in the magnetic field. By studying the evolution of funnel open magnetic fields over several solar rotations we find a direct relation between the presence of coronal clouds high in the solar corona and the coincident existence of funnel magnetic fields below them. 
