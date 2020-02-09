@@ -5,7 +5,6 @@ date: 2020-02-03
 description: 
 image: /assets/images/solar-surface-height.png
 ---
-The magnetic field measurements of the FIELDS instrument on the Parker Solar Probe (PSP) have shown intensities, throughout its first solar encounter, that require a very low source surface (SS) height to be reconciled with magnetic field measurements at the Sun via potential field extrapolation (PFSS). However, during PSP's second encounter, the situation went back to a more classic SS height. Here we use high-resolution observations of the photospheric magnetic field (Solar Dynamics Observatory/Helioseismic and Magnetic Imager) to calculate neutral lines and boundaries of the open field regions for SS heights from 1.2 to 2.5 R⊙ using an evolving PFSS model and the measured solar wind speed to trace the source of the wind observed by PSP to the low corona and photosphere. We adjust R SS to get the best match for the field polarity over the period 2018 October–November and 2019 March–April, finding that the best fit for the observed magnetic field polarity inversions requires a nonspherical SS. The geometry of the coronal hole boundaries for different R SS is tested using the PSP perihelion passes, 3D PFSS models, and LASCO/C2 observations. We investigate the sources of stronger-than-average magnetic fields and times of Alfvénic fast and slow wind. Only some of the strongly Alfvénic slow wind streams seen by PSP survive and are observed at 1 au: the origins and peculiar topology of the background in which they propagate is discussed.
 {% raw  %}
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js/src/bibtex_js.js"></script>
 
@@ -27,6 +26,1384 @@ The magnetic field measurements of the FIELDS instrument on the Parker Solar Pro
 SS to get the best match for the field polarity over the period 2018 October–November and 2019 March–April, finding that the best fit for the observed magnetic field polarity inversions requires a nonspherical SS. The geometry of the coronal hole boundaries for different R
 SS is tested using the PSP perihelion passes, 3D PFSS models, and LASCO/C2 observations. We investigate the sources of stronger-than-average magnetic fields and times of Alfvénic fast and slow wind. Only some of the strongly Alfvénic slow wind streams seen by PSP survive and are observed at 1 au: the origins and peculiar topology of the background in which they propagate is discussed.}
 }
+@ARTICLE{2019arXiv191203777R,
+       author = {{R{\'e}ville}, Victor and {Velli}, Marco and {Panasenco}, Olga and
+         {Tenerani}, Anna and {Shi}, Chen and {Badman}, Samuel T. and
+         {Bale}, Stuart D. and {Kasper}, J.~C. and {Stevens}, Michael L. and
+         {Korreck}, Kelly E. and {Bonnell}, J.~W. and {Case}, Anthony W. and
+         {Dudok de Wit}, Thierry and {Goetz}, Keith and {Harvey}, Peter R. and
+         {Larson}, Davin E. and {Livi}, Roberto and {Malaspina}, David M. and
+         {MacDowall}, Robert J. and {Pulupa}, Marc and {Whittlesey}, Phyllis L.},
+        title = "{The role of Alfv{\'e}n wave dynamics on the large scale properties of the solar wind: comparing a MHD simulation with PSP E1 data}",
+      journal = {arXiv e-prints},
+     keywords = {Astrophysics - Solar and Stellar Astrophysics, Physics - Space Physics},
+         year = "2019",
+        month = "Dec",
+          eid = {arXiv:1912.03777},
+        pages = {arXiv:1912.03777},
+archivePrefix = {arXiv},
+       eprint = {1912.03777},
+ primaryClass = {astro-ph.SR},
+       url = {https://ui.adsabs.harvard.edu/abs/2019arXiv191203777R},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2019arXiv191202244B,
+       author = {{Badman}, Samuel T. and {Bale}, Stuart D. and
+         {Martinez Oliveros}, Juan C. and {Panasenco}, Olga and {Velli}, Marco and
+         {Stansby}, David and {Buitrago-Casas}, Juan C. and {Reville}, Victor and
+         {Bonnell}, John W. and {Case}, Anthony W. and {Dudok de Wit}, Thierry and
+         {Goetz}, Keith and {Harvey}, Peter R. and {Kasper}, Justin C. and
+         {Korreck}, Kelly E. and {Larson}, Davin E. and {Livi}, Roberto and
+         {MacDowall}, Robert J. and {Malaspina}, David M. and {Pulupa}, Marc and
+         {Stevens}, Michael L. and {Whittlesey}, Phyllis L.},
+        title = "{Magnetic connectivity of the ecliptic plane within 0.5 AU : PFSS modeling of the first PSP encounter}",
+      journal = {arXiv e-prints},
+     keywords = {Astrophysics - Solar and Stellar Astrophysics, Physics - Space Physics},
+         year = "2019",
+        month = "Dec",
+          eid = {arXiv:1912.02244},
+        pages = {arXiv:1912.02244},
+archivePrefix = {arXiv},
+       eprint = {1912.02244},
+ primaryClass = {astro-ph.SR},
+       url = {https://ui.adsabs.harvard.edu/abs/2019arXiv191202244B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2019ApJ...873...25P,
+       author = {{Panasenco}, Olga and {Velli}, Marco and {Panasenco}, Aram},
+        title = "{Large-scale Magnetic Funnels in the Solar Corona}",
+      journal = {\apj},
+     keywords = {solar wind, Sun: activity, Sun: corona, Sun: coronal mass ejections: CMEs, Sun: filaments, prominences, Sun: magnetic fields},
+         year = "2019",
+        month = "Mar",
+       volume = {873},
+       number = {1},
+          eid = {25},
+        pages = {25},
+          doi = {10.3847/1538-4357/ab017c},
+       url = {https://ui.adsabs.harvard.edu/abs/2019ApJ...873...25P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2019ApJ...872..139W,
+       author = {{Wang}, Y. -M. and {Panasenco}, O.},
+        title = "{Observations of Solar Wind from Earth-directed Coronal Pseudostreamers}",
+      journal = {\apj},
+     keywords = {solar wind, Sun: activity, Sun: corona, Sun: heliosphere, Sun: magnetic fields, Sun: UV radiation},
+         year = "2019",
+        month = "Feb",
+       volume = {872},
+       number = {2},
+          eid = {139},
+        pages = {139},
+          doi = {10.3847/1538-4357/aaff5e},
+       url = {https://ui.adsabs.harvard.edu/abs/2019ApJ...872..139W},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2018AGUFMSH51E2882P,
+       author = {{Panasenco}, O. and {Velli}, M. and {Panasenco}, A. and {Lionello}, R. and
+         {D'Amicis}, R.},
+        title = "{In Situ Categorization and Coronal Origins of Different Slow Solar Wind Types}",
+     keywords = {2164 Solar wind plasma, INTERPLANETARY PHYSICSDE: 2169 Solar wind sources, INTERPLANETARY PHYSICSDE: 7509 Corona, SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMYDE: 7524 Magnetic fields, SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY},
+    booktitle = {AGU Fall Meeting Abstracts},
+         year = "2018",
+       volume = {2018},
+        month = "Dec",
+          eid = {SH51E-2882},
+        pages = {SH51E-2882},
+       url = {https://ui.adsabs.harvard.edu/abs/2018AGUFMSH51E2882P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2018SoPh..293...99L,
+       author = {{L{\'o}pez-Portela}, C. and {Panasenco}, O. and {Blanco-Cano}, X. and
+         {Stenborg}, G.},
+        title = "{Deprojected Trajectory of Blobs in the Inner Corona}",
+      journal = {\solphys},
+     keywords = {Corona, Slow Solar Wind, Disturbances},
+         year = "2018",
+        month = "Jul",
+       volume = {293},
+       number = {7},
+          eid = {99},
+        pages = {99},
+          doi = {10.1007/s11207-018-1315-4},
+       url = {https://ui.adsabs.harvard.edu/abs/2018SoPh..293...99L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2018shin.confE.236P,
+       author = {{Panasenco}, Olga and {Tenerani}, Anna and {Velli}, Marco and
+         {Panasenco}, Aram},
+        title = "{In situ categorization and coronal origins of different slow solar wind types}",
+    booktitle = {Solar Heliospheric and INterplanetary Environment (SHINE 2018)},
+         year = "2018",
+        month = "Jul",
+          eid = {236},
+        pages = {236},
+       url = {https://ui.adsabs.harvard.edu/abs/2018shin.confE.236P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2018cosp...42E2566P,
+       author = {{Panasenco}, Olga and {Panasenco}, Aram and {Velli}, Marco},
+        title = "{Large-Scale Magnetic Funnels in the Solar Corona}",
+    booktitle = {42nd COSPAR Scientific Assembly},
+         year = "2018",
+       volume = {42},
+        month = "Jul",
+          eid = {D2.2-8-18},
+        pages = {D2.2-8-18},
+       url = {https://ui.adsabs.harvard.edu/abs/2018cosp...42E2566P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2018cosp...42E2565P,
+       author = {{Panasenco}, Olga and {Panasenco}, Aram and {Velli}, Marco},
+        title = "{Pseudostreamers and widely distributed SEP events}",
+    booktitle = {42nd COSPAR Scientific Assembly},
+         year = "2018",
+       volume = {42},
+        month = "Jul",
+          eid = {D2.1-23-18},
+        pages = {D2.1-23-18},
+       url = {https://ui.adsabs.harvard.edu/abs/2018cosp...42E2565P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2017AGUFMSH33C..07P,
+       author = {{Panasenco}, O. and {Panasenco}, A. and {Velli}, M.},
+        title = "{Widely distributed SEP events and pseudostreamers}",
+     keywords = {7513 Coronal mass ejections, SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY, 7514 Energetic particles, SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY, 7519 Flares, SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY, 7524 Magnetic fields, SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY},
+    booktitle = {AGU Fall Meeting Abstracts},
+         year = "2017",
+       volume = {2017},
+        month = "Dec",
+          eid = {SH33C-07},
+        pages = {SH33C-07},
+       url = {https://ui.adsabs.harvard.edu/abs/2017AGUFMSH33C..07P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2017AGUFMSH23D2703P,
+       author = {{Panasenco}, O. and {Velli}, M. and {Panasenco}, A. and {Lionello}, R.},
+        title = "{The Solar Wind from Pseudostreamers and their Environs: Opportunities for Observations with Parker Solar Probe and Solar Orbiter}",
+     keywords = {7509 Corona, SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY, 7513 Coronal mass ejections, SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY, 7514 Energetic particles, SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY, 7845 Particle acceleration, SPACE PLASMA PHYSICS},
+    booktitle = {AGU Fall Meeting Abstracts},
+         year = "2017",
+       volume = {2017},
+        month = "Dec",
+          eid = {SH23D-2703},
+        pages = {SH23D-2703},
+       url = {https://ui.adsabs.harvard.edu/abs/2017AGUFMSH23D2703P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2017ApJ...845..141T,
+       author = {{Titov}, Viacheslav S. and {Miki{\'c}}, Zoran and
+         {T{\"o}r{\"o}k}, Tibor and {Linker}, Jon A. and {Panasenco}, Olga},
+        title = "{2010 August 1─2 Sympathetic Eruptions. II. Magnetic Topology of the MHD Background Field}",
+      journal = {\apj},
+     keywords = {Sun: coronal mass ejections: CMEs, Sun: flares, Sun: magnetic fields, Astrophysics - Solar and Stellar Astrophysics},
+         year = "2017",
+        month = "Aug",
+       volume = {845},
+       number = {2},
+          eid = {141},
+        pages = {141},
+          doi = {10.3847/1538-4357/aa81ce},
+archivePrefix = {arXiv},
+       eprint = {1707.07773},
+ primaryClass = {astro-ph.SR},
+       url = {https://ui.adsabs.harvard.edu/abs/2017ApJ...845..141T},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2016AGUFMSH54A..07V,
+       author = {{Velli}, M.~C.~M. and {Panasenco}, O. and {Rappazzo}, A.~F. and
+         {Tenerani}, A. and {Bale}, S.~D. and {Fox}, N.~J. and {Howard}, R. and
+         {Kasper}, J.~C. and {McComas}, D.~J.},
+        title = "{Solar Wind Origins, Heating and Turbulence Evolution with Solar Probe Plus: The First Three Perihelia}",
+     keywords = {7509 Corona, SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMYDE: 7534 Radio emissions, SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMYDE: 7829 Kinetic waves and instabilities, SPACE PLASMA PHYSICSDE: 7845 Particle acceleration, SPACE PLASMA PHYSICS},
+    booktitle = {AGU Fall Meeting Abstracts},
+         year = "2016",
+        month = "Dec",
+          eid = {SH54A-07},
+        pages = {SH54A-07},
+       url = {https://ui.adsabs.harvard.edu/abs/2016AGUFMSH54A..07V},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2016AGUFMSH51B2597T,
+       author = {{Tomlinson}, S.~M. and {Velli}, M.~C.~M. and {Panasenco}, O.},
+        title = "{Filament Structure and Stability in the Solar Corona}",
+     keywords = {2164 Solar wind plasma, INTERPLANETARY PHYSICSDE: 2169 Solar wind sources, INTERPLANETARY PHYSICSDE: 7509 Corona, SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMYDE: 7524 Magnetic fields, SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY},
+    booktitle = {AGU Fall Meeting Abstracts},
+         year = "2016",
+        month = "Dec",
+          eid = {SH51B-2597},
+        pages = {SH51B-2597},
+       url = {https://ui.adsabs.harvard.edu/abs/2016AGUFMSH51B2597T},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2016AGUFMSH14A..02P,
+       author = {{Panasenco}, O. and {Velli}, M.},
+        title = "{Predicting the Orientation of the B$_{z}$ Component of CMEs}",
+     keywords = {2111 Ejecta, driver gases, and magnetic clouds, INTERPLANETARY PHYSICSDE: 2139 Interplanetary shocks, INTERPLANETARY PHYSICSDE: 7513 Coronal mass ejections, SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMYDE: 7954 Magnetic storms, SPACE WEATHER},
+    booktitle = {AGU Fall Meeting Abstracts},
+         year = "2016",
+        month = "Dec",
+          eid = {SH14A-02},
+        pages = {SH14A-02},
+       url = {https://ui.adsabs.harvard.edu/abs/2016AGUFMSH14A..02P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2016SPD....4740204P,
+       author = {{Panasenco}, Olga and {Velli}, Marco},
+        title = "{Formation and Evolution of Large-Scale Magnetic Funnels in the Solar Corona}",
+    booktitle = {AAS/Solar Physics Division Abstracts \#47},
+         year = "2016",
+       series = {AAS/Solar Physics Division Meeting},
+        month = "May",
+          eid = {402.04},
+        pages = {402.04},
+       url = {https://ui.adsabs.harvard.edu/abs/2016SPD....4740204P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2016SPD....47.0324P,
+       author = {{Panasenco}, Olga and {Velli}, Marco},
+        title = "{Morphology of Pseudostreamers and Solar Wind Properties}",
+    booktitle = {AAS/Solar Physics Division Abstracts \#47},
+         year = "2016",
+       series = {AAS/Solar Physics Division Meeting},
+        month = "May",
+          eid = {3.24},
+        pages = {3.24},
+       url = {https://ui.adsabs.harvard.edu/abs/2016SPD....47.0324P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2015AGUFMSH13C2454P,
+       author = {{Panasenco}, O. and {Velli}, M.},
+        title = "{Filament Channels: Isolated Laboratories of Plasma Heating in the Solar Corona}",
+     keywords = {7507 Chromosphere, SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY, 7509 Corona, SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY, 7511 Coronal holes, SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY, 7827 Kinetic and MHD theory, SPACE PLASMA PHYSICS},
+    booktitle = {AGU Fall Meeting Abstracts},
+         year = "2015",
+       volume = {2015},
+        month = "Dec",
+          eid = {SH13C-2454},
+        pages = {SH13C-2454},
+       url = {https://ui.adsabs.harvard.edu/abs/2015AGUFMSH13C2454P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2015SoPh..290.3343L,
+       author = {{Liewer}, Paulett and {Panasenco}, Olga and {Vourlidas}, Angelos and
+         {Colaninno}, Robin},
+        title = "{Observations and Analysis of the Non-Radial Propagation of Coronal Mass Ejections Near the Sun}",
+      journal = {\solphys},
+     keywords = {Corona mass ejections, Corona, Space weather},
+         year = "2015",
+        month = "Nov",
+       volume = {290},
+       number = {11},
+        pages = {3343-3364},
+          doi = {10.1007/s11207-015-0794-9},
+       url = {https://ui.adsabs.harvard.edu/abs/2015SoPh..290.3343L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2015TESS....111405L,
+       author = {{Liewer}, Paulett C. and {Colaninno}, Robin and {Panasenco}, Olga and
+         {Vourlidas}, Angelos},
+        title = "{Observations and Analysis of the Non-Radial Propagation of Coronal Mass Ejections Near the Sun}",
+    booktitle = {AAS/AGU Triennial Earth-Sun Summit},
+         year = "2015",
+       series = {AAS/AGU Triennial Earth-Sun Summit},
+        month = "Apr",
+          eid = {114.05},
+        pages = {114.05},
+       url = {https://ui.adsabs.harvard.edu/abs/2015TESS....111405L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2014AGUFMSH33A4121P,
+       author = {{Panasenco}, O. and {Velli}, M.~M.~C.},
+        title = "{Pseudostreamers: Formation, Magnetic Topology and Plasma Properties}",
+     keywords = {2164 Solar wind plasma, INTERPLANETARY PHYSICS, 2169 Solar wind sources, INTERPLANETARY PHYSICS, 7509 Corona, SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY, 7511 Coronal holes, SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY},
+    booktitle = {AGU Fall Meeting Abstracts},
+         year = "2014",
+       volume = {2014},
+        month = "Dec",
+          eid = {SH33A-4121},
+        pages = {SH33A-4121},
+       url = {https://ui.adsabs.harvard.edu/abs/2014AGUFMSH33A4121P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2014AGUFMSH23A4148T,
+       author = {{Titov}, V.~S. and {Mikic}, Z. and {Torok}, T. and {Linker}, J. and
+         {Panasenco}, O.},
+        title = "{Magnetic Topology of the Global MHD Configuration on 2010 August 1-2}",
+     keywords = {7513 Coronal mass ejections, SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY, 7519 Flares, SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY, 7524 Magnetic fields, SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY},
+    booktitle = {AGU Fall Meeting Abstracts},
+         year = "2014",
+       volume = {2014},
+        month = "Dec",
+          eid = {SH23A-4148},
+        pages = {SH23A-4148},
+       url = {https://ui.adsabs.harvard.edu/abs/2014AGUFMSH23A4148T},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2014AGUFMSH23A4146T,
+       author = {{Torok}, T. and {Titov}, V.~S. and {Panasenco}, O.},
+        title = "{Sympathetic solar eruptions in quadrupolar magnetic configurations}",
+     keywords = {7513 Coronal mass ejections, SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY, 7519 Flares, SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY, 7524 Magnetic fields, SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY},
+    booktitle = {AGU Fall Meeting Abstracts},
+         year = "2014",
+       volume = {2014},
+        month = "Dec",
+          eid = {SH23A-4146},
+        pages = {SH23A-4146},
+       url = {https://ui.adsabs.harvard.edu/abs/2014AGUFMSH23A4146T},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2014AGUFMSH21B4126L,
+       author = {{Lopez-Portela}, C. and {Blanco-Cano}, X. and {Panasenco}, O. and
+         {Gibson}, S.~E.},
+        title = "{3D Location of Small Solar Wind Tracers}",
+     keywords = {2134 Interplanetary magnetic fields, INTERPLANETARY PHYSICS, 2199 General or miscellaneous, INTERPLANETARY PHYSICS, 7599 General or miscellaneous, SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY, 7999 General or miscellaneous, SPACE WEATHER},
+    booktitle = {AGU Fall Meeting Abstracts},
+         year = "2014",
+       volume = {2014},
+        month = "Dec",
+          eid = {SH21B-4126},
+        pages = {SH21B-4126},
+       url = {https://ui.adsabs.harvard.edu/abs/2014AGUFMSH21B4126L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2014SoPh..289..603P,
+       author = {{Panasenco}, Olga and {Martin}, Sara F. and {Velli}, Marco},
+        title = "{Apparent Solar Tornado-Like Prominences}",
+      journal = {\solphys},
+     keywords = {Coronal mass ejections, low coronal signatures, initiation and propagation, Magnetic fields, corona, Coronal holes, prominences, formation and evolution, Filaments, Astrophysics - Solar and Stellar Astrophysics},
+         year = "2014",
+        month = "Feb",
+       volume = {289},
+       number = {2},
+        pages = {603-622},
+          doi = {10.1007/s11207-013-0337-1},
+archivePrefix = {arXiv},
+       eprint = {1307.2303},
+ primaryClass = {astro-ph.SR},
+       url = {https://ui.adsabs.harvard.edu/abs/2014SoPh..289..603P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2013AGUFMSH33A2056P,
+       author = {{Panasenco}, O. and {Velli}, M.~M.},
+        title = "{The Solar Wind From Pseudostreamers: Observations and Modeling}",
+     keywords = {7509 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY Corona, 7511 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY Coronal holes, 7524 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY Magnetic fields},
+    booktitle = {AGU Fall Meeting Abstracts},
+         year = "2013",
+       volume = {2013},
+        month = "Dec",
+          eid = {SH33A-2056},
+        pages = {SH33A-2056},
+       url = {https://ui.adsabs.harvard.edu/abs/2013AGUFMSH33A2056P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013SoPh..287..391P,
+       author = {{Panasenco}, Olga and {Martin}, Sara F. and {Velli}, Marco and
+         {Vourlidas}, Angelos},
+        title = "{Origins of Rolling, Twisting, and Non-radial Propagation of Eruptive Solar Events}",
+      journal = {\solphys},
+     keywords = {Coronal mass ejections, low coronal signatures, initiation and propagation, Magnetic fields, corona, Coronal holes, prominences, formation and evolution, Filaments, Astrophysics - Solar and Stellar Astrophysics},
+         year = "2013",
+        month = "Oct",
+       volume = {287},
+       number = {1-2},
+        pages = {391-413},
+          doi = {10.1007/s11207-012-0194-3},
+archivePrefix = {arXiv},
+       eprint = {1211.1376},
+ primaryClass = {astro-ph.SR},
+       url = {https://ui.adsabs.harvard.edu/abs/2013SoPh..287..391P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013OptEn..52h1603H,
+       author = {{Hammerschlag}, Robert H. and {Sliepen}, Guus and
+         {Bettonvil}, Felix C.~M. and {J{\"a}gers}, Aswin P.~L. and
+         {S{\"u}tterlin}, Peter and {Lin}, Yong and {Martin}, Sara F. and
+         {Panasenco}, Olga and {Romashets}, Eugene P.},
+        title = "{Large-field high-resolution mosaic movies}",
+      journal = {Optical Engineering},
+         year = "2013",
+        month = "Aug",
+       volume = {52},
+          eid = {081603},
+        pages = {081603},
+          doi = {10.1117/1.OE.52.8.081603},
+       url = {https://ui.adsabs.harvard.edu/abs/2013OptEn..52h1603H},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013ApJ...772...88S,
+       author = {{Sheeley}, N.~R., Jr. and {Martin}, S.~F. and {Panasenco}, O. and
+         {Warren}, H.~P.},
+        title = "{Using Coronal Cells to Infer the Magnetic Field Structure and Chirality of Filament Channels}",
+      journal = {\apj},
+     keywords = {magnetic fields, Sun: corona, Sun: filaments, prominences, Sun: UV radiation, Astrophysics - Solar and Stellar Astrophysics},
+         year = "2013",
+        month = "Aug",
+       volume = {772},
+       number = {2},
+          eid = {88},
+        pages = {88},
+          doi = {10.1088/0004-637X/772/2/88},
+archivePrefix = {arXiv},
+       eprint = {1306.2273},
+ primaryClass = {astro-ph.SR},
+       url = {https://ui.adsabs.harvard.edu/abs/2013ApJ...772...88S},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2013SPD....4410103L,
+       author = {{Liewer}, Paulett C. and {Panasenco}, O. and {Vourlidas}, A.},
+        title = "{Analysis of the Deflection of CMEs by Coronal Magnetic Fields}",
+    booktitle = {AAS/Solar Physics Division Abstracts \#44},
+         year = "2013",
+       series = {AAS/Solar Physics Division Meeting},
+        month = "Jul",
+          eid = {101.03},
+        pages = {101.03},
+       url = {https://ui.adsabs.harvard.edu/abs/2013SPD....4410103L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2013shin.confE.130T,
+       author = {{Titov}, Viacheslav S. and {Miki{\'c}}, Zoran and
+         {T{\"o}r{\"o}k}, Tibor and {Linker}, Jon A. and {Panasenco}, Olga},
+        title = "{Pseudo-Streamer Structures in the 2010 August 1-2 CMEs: PFSS verses MHD model.}",
+    booktitle = {Solar Heliospheric and INterplanetary Environment (SHINE 2013)},
+         year = "2013",
+        month = "Jun",
+          eid = {130},
+        pages = {130},
+       url = {https://ui.adsabs.harvard.edu/abs/2013shin.confE.130T},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2013AIPC.1539...50P,
+       author = {{Panasenco}, Olga and {Velli}, Marco},
+        title = "{Coronal pseudostreamers: Source of fast or slow solar wind?}",
+     keywords = {solar corona, solar magnetism, solar prominences, solar wind, 96.50.Ci, 96.60.Hv, 96.60.P-, 96.60.qf, 96.60.Vg, Solar wind plasma, sources of solar wind, Electric and magnetic fields solar magnetism, Corona, Prominence eruptions, Particle emission solar wind, Astrophysics - Solar and Stellar Astrophysics},
+    booktitle = {Solar Wind 13},
+         year = "2013",
+       editor = {{Zank}, Gary P. and {Borovsky}, Joe and {Bruno}, Roberto and
+         {Cirtain}, Jonathan and {Cranmer}, Steve and {Elliott}, Heather and
+         {Giacalone}, Joe and {Gonzalez}, Walter and {Li}, Gang and
+         {Marsch}, Eckart and {Moebius}, Ebehard and {Pogorelov}, Nick and
+         {Spann}, Jim and {Verkhoglyadova}, Olga},
+       series = {American Institute of Physics Conference Series},
+       volume = {1539},
+        month = "Jun",
+        pages = {50-53},
+          doi = {10.1063/1.4810987},
+archivePrefix = {arXiv},
+       eprint = {1211.6171},
+ primaryClass = {astro-ph.SR},
+       url = {https://ui.adsabs.harvard.edu/abs/2013AIPC.1539...50P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2013enss.confE..94P,
+       author = {{Panasenco}, Olga and {Velli}, Marco and {Martin}, Sara F.},
+        title = "{Formation of the Coronal Cloud Prominences Inside Magnetic Funnels}",
+     keywords = {SDO, SDO-7, SDO 7, SDO Workshop, 2013 LWS/SDO Science Workshop, Solar Dynamic Observatory},
+    booktitle = {SDO-3: Exploring the Network of SDO Science},
+         year = "2013",
+        month = "Mar",
+          eid = {94},
+        pages = {94},
+       url = {https://ui.adsabs.harvard.edu/abs/2013enss.confE..94P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2013enss.confE..93P,
+       author = {{Panasenco}, Olga and {Velli}, Marco and {Martin}, Sara F. and
+         {Rappazzo}, Franco},
+        title = "{Solar Tornado Prominences: Plasma Motions Along Filament Barbs}",
+     keywords = {SDO, SDO-7, SDO 7, SDO Workshop, 2013 LWS/SDO Science Workshop, Solar Dynamic Observatory},
+    booktitle = {SDO-3: Exploring the Network of SDO Science},
+         year = "2013",
+        month = "Mar",
+          eid = {93},
+        pages = {93},
+       url = {https://ui.adsabs.harvard.edu/abs/2013enss.confE..93P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013SoPh..282..201L,
+       author = {{Liewer}, P.~C. and {Panasenco}, O. and {Hall}, J.~R.},
+        title = "{Stereoscopic Analysis of the 31 August 2007 Prominence Eruption and Coronal Mass Ejection}",
+      journal = {\solphys},
+     keywords = {Corona, Coronal mass ejection, Filament eruption, Prominence},
+         year = "2013",
+        month = "Jan",
+       volume = {282},
+       number = {1},
+        pages = {201-220},
+          doi = {10.1007/s11207-012-0145-z},
+       url = {https://ui.adsabs.harvard.edu/abs/2013SoPh..282..201L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INBOOK{2012ASPC..463..157M,
+       author = {{Martin}, S.~F. and {Panasenco}, O. and {Berger}, M.~A. and
+         {Engvold}, O. and {Lin}, Y. and {Pevtsov}, A.~A. and {Srivastava}, N.},
+        title = "{The Build-Up to Eruptive Solar Events Viewed as the Development of Chiral Systems}",
+     keywords = {Astrophysics - Solar and Stellar Astrophysics},
+    booktitle = {Second ATST-EAST Meeting: Magnetic Fields from the Photosphere to the Corona.},
+         year = "2012",
+       editor = {{Rimmele}, T.~R. and {Tritschler}, A. and {W{\"o}ger}, F. and
+         {Collados Vera}, M. and {Socas-Navarro}, H. and {Schlichenmaier}, R. and
+         {Carlsson}, M. and {Berger}, T. and {Cadavid}, A. and {Gilbert}, P.~R. and
+         {Goode}, P.~R. and {Kn{\"o}lker}, M.},
+       volume = {463},
+       series = {Astronomical Society of the Pacific Conference Series},
+        pages = {157},
+       url = {https://ui.adsabs.harvard.edu/abs/2012ASPC..463..157M},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2012arXiv1212.5310V,
+       author = {{Veselovsky}, Igor and {Panasenco}, Olga},
+        title = "{The Model Magnetic Configuration of the Extended Corona in the Solar Wind Formation Region}",
+      journal = {arXiv e-prints},
+     keywords = {Astrophysics - Solar and Stellar Astrophysics, Physics - Space Physics},
+         year = "2012",
+        month = "Dec",
+          eid = {arXiv:1212.5310},
+        pages = {arXiv:1212.5310},
+archivePrefix = {arXiv},
+       eprint = {1212.5310},
+ primaryClass = {astro-ph.SR},
+       url = {https://ui.adsabs.harvard.edu/abs/2012arXiv1212.5310V},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2012AGUFMSH53A2257P,
+       author = {{Panasenco}, O. and {Velli}, M.~M. and {Panasenco}, A. and
+         {Lionello}, R.},
+        title = "{The Solar Wind From Pseudostreamers And Their Immediate Environment}",
+     keywords = {2169 INTERPLANETARY PHYSICS / Solar wind sources, 7509 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY / Corona, 7524 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY / Magnetic fields, 7959 SPACE WEATHER / Models},
+    booktitle = {AGU Fall Meeting Abstracts},
+         year = "2012",
+       volume = {2012},
+        month = "Dec",
+          eid = {SH53A-2257},
+        pages = {SH53A-2257},
+       url = {https://ui.adsabs.harvard.edu/abs/2012AGUFMSH53A2257P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2012AGUFMSH51A2211T,
+       author = {{Titov}, V.~S. and {Mikic}, Z. and {Torok}, T. and {Linker}, J.~A. and
+         {Panasenco}, O.},
+        title = "{Pseudo-Streamer Magnetic Topologies in the 2010 August 1-2 CMEs}",
+     keywords = {7513 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY / Coronal mass ejections, 7524 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY / Magnetic fields, 7526 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY / Magnetic reconnection, 7531 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY / Prominence eruptions},
+    booktitle = {AGU Fall Meeting Abstracts},
+         year = "2012",
+       volume = {2012},
+        month = "Dec",
+          eid = {SH51A-2211},
+        pages = {SH51A-2211},
+       url = {https://ui.adsabs.harvard.edu/abs/2012AGUFMSH51A2211T},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2012AGUFMSH33D2251V,
+       author = {{Velli}, M.~M. and {Rappazzo}, F. and {Panasenco}, O.},
+        title = "{Magnetic reconnection, shear flow and the axial filament channel magnetic field}",
+     keywords = {7509 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY / Corona},
+    booktitle = {AGU Fall Meeting Abstracts},
+         year = "2012",
+       volume = {2012},
+        month = "Dec",
+          eid = {SH33D-2251},
+        pages = {SH33D-2251},
+       url = {https://ui.adsabs.harvard.edu/abs/2012AGUFMSH33D2251V},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2012ApJ...759...70T,
+       author = {{Titov}, V.~S. and {Mikic}, Z. and {T{\"o}r{\"o}k}, T. and
+         {Linker}, J.~A. and {Panasenco}, O.},
+        title = "{2010 August 1-2 Sympathetic Eruptions. I. Magnetic Topology of the Source-surface Background Field}",
+      journal = {\apj},
+     keywords = {magnetic reconnection, solar wind, Sun: coronal mass ejections: CMEs, Sun: flares, Sun: magnetic topology, Astrophysics - Solar and Stellar Astrophysics},
+         year = "2012",
+        month = "Nov",
+       volume = {759},
+       number = {1},
+          eid = {70},
+        pages = {70},
+          doi = {10.1088/0004-637X/759/1/70},
+archivePrefix = {arXiv},
+       eprint = {1209.5797},
+ primaryClass = {astro-ph.SR},
+       url = {https://ui.adsabs.harvard.edu/abs/2012ApJ...759...70T},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2012APS..DPPNP8058T,
+       author = {{Titov}, Viacheslav and {Mikic}, Zoran and {Torok}, Tibor and
+         {Linker}, Jon and {Panasenco}, Olga},
+        title = "{Magnetic Topology of Pseudo-Streamers in the 2010 August 1-2 Eruption Events}",
+    booktitle = {APS Division of Plasma Physics Meeting Abstracts},
+         year = "2012",
+       series = {APS Meeting Abstracts},
+       volume = {54},
+        month = "Oct",
+          eid = {NP8.058},
+        pages = {NP8.058},
+       url = {https://ui.adsabs.harvard.edu/abs/2012APS..DPPNP8058T},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2012shin.confE.215P,
+       author = {{Panasenco}, Olga},
+        title = "{Solar Tornados - Myth or Reality?}",
+    booktitle = {Solar Heliospheric and INterplanetary Environment (SHINE 2012)},
+         year = "2012",
+        month = "Jun",
+          eid = {215},
+        pages = {215},
+       url = {https://ui.adsabs.harvard.edu/abs/2012shin.confE.215P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2012shin.confE.163P,
+       author = {{Panasenco}, Olga and {Velli}, Marco},
+        title = "{Pseudostreamers and Twin Filaments in the Solar Corona}",
+    booktitle = {Solar Heliospheric and INterplanetary Environment (SHINE 2012)},
+         year = "2012",
+        month = "Jun",
+          eid = {163},
+        pages = {163},
+       url = {https://ui.adsabs.harvard.edu/abs/2012shin.confE.163P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2012shin.confE.162P,
+       author = {{Panasenco}, Olga and {Titov}, Viacheslav and {Miki{\'c}}, Zoran and
+         {T{\"o}r{\"o}k}, Tibor and {de Toma}, Giuliana and {Velli}, Marco},
+        title = "{Sympathetic Eruptive Events and Pseudostreamers}",
+    booktitle = {Solar Heliospheric and INterplanetary Environment (SHINE 2012)},
+         year = "2012",
+        month = "Jun",
+          eid = {162},
+        pages = {162},
+       url = {https://ui.adsabs.harvard.edu/abs/2012shin.confE.162P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2012shin.confE.160T,
+       author = {{Titov}, Viacheslav S. and {Mikic}, Zoran and {Torok}, Tibor and
+         {Linker}, Jon A. and {Panasenco}, Olga},
+        title = "{Magnetic Topology of Pseudo-Streamers in the 2010 August 1-2 Eruption Events}",
+    booktitle = {Solar Heliospheric and INterplanetary Environment (SHINE 2012)},
+         year = "2012",
+        month = "Jun",
+          eid = {160},
+        pages = {160},
+       url = {https://ui.adsabs.harvard.edu/abs/2012shin.confE.160T},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2012AAS...22020212P,
+       author = {{Panasenco}, Olga and {Velli}, M.},
+        title = "{Pseudostreamers and Twin Filaments in the Solar Corona}",
+    booktitle = {American Astronomical Society Meeting Abstracts \#220},
+         year = "2012",
+       series = {American Astronomical Society Meeting Abstracts},
+       volume = {220},
+        month = "May",
+          eid = {202.12},
+        pages = {202.12},
+       url = {https://ui.adsabs.harvard.edu/abs/2012AAS...22020212P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2012AAS...22020202P,
+       author = {{Panasenco}, Olga and {Martin}, S.~F. and {Velli}, M. and
+         {Berger}, M.~A.},
+        title = "{Coronal Holes, Filament Channels And Filaments: Observations Of The Self-organization Of The Coronal Magnetic Field Over Solar Cycles 23 And 24}",
+    booktitle = {American Astronomical Society Meeting Abstracts \#220},
+         year = "2012",
+       series = {American Astronomical Society Meeting Abstracts},
+       volume = {220},
+        month = "May",
+          eid = {202.02},
+        pages = {202.02},
+       url = {https://ui.adsabs.harvard.edu/abs/2012AAS...22020202P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2012EGUGA..14.3270T,
+       author = {{Torok}, T. and {Mikic}, Z. and {Panasenco}, O. and {Titov}, V.~S. and
+         {Reeves}, K.~K. and {Velli}, M. and {Linker}, J.~A. and {de Toma}, G.},
+        title = "{Observations and simulations of the sympathetic eruptions on 2010 August 1}",
+    booktitle = {EGU General Assembly Conference Abstracts},
+         year = "2012",
+       series = {EGU General Assembly Conference Abstracts},
+        month = "Apr",
+        pages = {3270},
+       url = {https://ui.adsabs.harvard.edu/abs/2012EGUGA..14.3270T},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2012SoPh..277..185P,
+       author = {{Pevtsov}, Alexei A. and {Panasenco}, Olga and {Martin}, Sara F.},
+        title = "{Coronal Mass Ejections from Magnetic Systems Encompassing Filament Channels Without Filaments}",
+      journal = {\solphys},
+     keywords = {Coronal mass ejections, low coronal signatures, initiation and propagation, Magnetic fields, corona, Prominences, formation and evolution, Filaments, filament mass},
+         year = "2012",
+        month = "Mar",
+       volume = {277},
+       number = {1},
+        pages = {185-201},
+          doi = {10.1007/s11207-011-9881-8},
+       url = {https://ui.adsabs.harvard.edu/abs/2012SoPh..277..185P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2011ApJ...743..202B,
+       author = {{Balasubramaniam}, K.~S. and {Pevtsov}, A.~A. and {Cliver}, E.~W. and
+         {Martin}, S.~F. and {Panasenco}, O.},
+        title = "{The Disappearing Solar Filament of 2003 June 11: A Three-body Problem}",
+      journal = {\apj},
+     keywords = {Sun: coronal mass ejections: CMEs, Sun: filaments, prominences, Sun: magnetic topology, Sun: surface magnetism},
+         year = "2011",
+        month = "Dec",
+       volume = {743},
+       number = {2},
+          eid = {202},
+        pages = {202},
+          doi = {10.1088/0004-637X/743/2/202},
+       url = {https://ui.adsabs.harvard.edu/abs/2011ApJ...743..202B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2011AGUFMSH43B1949T,
+       author = {{Titov}, V.~S. and {Mikic}, Z. and {Torok}, T. and {Linker}, J.~A. and
+         {Panasenco}, O.},
+        title = "{Magnetic Topology of the Sympathetic CMEs Observed on 27 July 2011 and 1 August 2010}",
+     keywords = {7509 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY / Corona, 7513 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY / Coronal mass ejections, 7524 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY / Magnetic fields, 7531 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY / Prominence eruptions},
+    booktitle = {AGU Fall Meeting Abstracts},
+         year = "2011",
+       volume = {2011},
+        month = "Dec",
+          eid = {SH43B-1949},
+        pages = {SH43B-1949},
+       url = {https://ui.adsabs.harvard.edu/abs/2011AGUFMSH43B1949T},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2011AGUFMSH12A..05P,
+       author = {{Panasenco}, O. and {Velli}, M. and {Martin}, S.~F. and {Berger}, M.~A.},
+        title = "{Coronal Holes and Filaments: Life in Symbiosis}",
+     keywords = {7511 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY / Coronal holes, 7513 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY / Coronal mass ejections, 7524 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY / Magnetic fields, 7531 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY / Prominence eruptions},
+    booktitle = {AGU Fall Meeting Abstracts},
+         year = "2011",
+       volume = {2011},
+        month = "Dec",
+          eid = {SH12A-05},
+        pages = {SH12A-05},
+       url = {https://ui.adsabs.harvard.edu/abs/2011AGUFMSH12A..05P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2011sdmi.confE.105M,
+       author = {{Martin}, Sara F. and {Panasenco}, Olga},
+        title = "{Origins of Rolling, Twisting and Non-radial Propagation of Eruptive Solar Events}",
+     keywords = {SDO, SDO-3, SDO 3, SDO Workshop, LWS/SDO-3/SOHO-26/GONG-2011 Workshop, Solar Dynamic Observatory},
+    booktitle = {SDO-3: Solar Dynamics and Magnetism from the Interior to the Atmosphere},
+         year = "2011",
+        month = "Oct",
+          eid = {105},
+        pages = {105},
+       url = {https://ui.adsabs.harvard.edu/abs/2011sdmi.confE.105M},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2011ApJ...739L..63T,
+       author = {{T{\"o}r{\"o}k}, T. and {Panasenco}, O. and {Titov}, V.~S. and
+         {Miki{\'c}}, Z. and {Reeves}, K.~K. and {Velli}, M. and
+         {Linker}, J.~A. and {De Toma}, G.},
+        title = "{A Model for Magnetically Coupled Sympathetic Eruptions}",
+      journal = {\apjl},
+     keywords = {methods: numerical, Sun: corona, Sun: coronal mass ejections: CMEs, Sun: filaments, prominences, Sun: flares, Sun: magnetic topology, Astrophysics - Solar and Stellar Astrophysics},
+         year = "2011",
+        month = "Oct",
+       volume = {739},
+       number = {2},
+          eid = {L63},
+        pages = {L63},
+          doi = {10.1088/2041-8205/739/2/L63},
+archivePrefix = {arXiv},
+       eprint = {1108.2069},
+ primaryClass = {astro-ph.SR},
+       url = {https://ui.adsabs.harvard.edu/abs/2011ApJ...739L..63T},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2011shin.confE.171P,
+       author = {{Panasenco}, Aram and {Panasenco}, Olga and {Martin}, Sara},
+        title = "{Demonstration of HelioFlux: an IDL tool applied to calculation of magnetic flux or intensity of solar features}",
+    booktitle = {Solar Heliospheric and INterplanetary Environment (SHINE 2011)},
+         year = "2011",
+        month = "Jul",
+          eid = {171},
+        pages = {171},
+       url = {https://ui.adsabs.harvard.edu/abs/2011shin.confE.171P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2011shin.confE.125T,
+       author = {{Torok}, Tibor and {Panasenco}, O. and {Titov}, V.~S. and {Mikic}, Z. and
+         {Velli}, M. and {Linker}, J. and {De Toma}, G.},
+        title = "{A model for sympathetic eruptions}",
+    booktitle = {Solar Heliospheric and INterplanetary Environment (SHINE 2011)},
+         year = "2011",
+        month = "Jul",
+          eid = {125},
+        pages = {125},
+       url = {https://ui.adsabs.harvard.edu/abs/2011shin.confE.125T},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2011shin.confE..31P,
+       author = {{Panasenco}, Olga and {Martin}, Sara and {Feynman}, Joan},
+        title = "{CMEs from emptied filament channels}",
+    booktitle = {Solar Heliospheric and INterplanetary Environment (SHINE 2011)},
+         year = "2011",
+        month = "Jul",
+          eid = {31},
+        pages = {31},
+       url = {https://ui.adsabs.harvard.edu/abs/2011shin.confE..31P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2011JASTP..73.1129P,
+       author = {{Panasenco}, Olga and {Martin}, Sara and {Joshi}, Anand D. and
+         {Srivastava}, Nandita},
+        title = "{Rolling motion in erupting prominences observed by STEREO}",
+      journal = {Journal of Atmospheric and Solar-Terrestrial Physics},
+         year = "2011",
+        month = "Jun",
+       volume = {73},
+       number = {10},
+        pages = {1129-1137},
+          doi = {10.1016/j.jastp.2010.09.010},
+       url = {https://ui.adsabs.harvard.edu/abs/2011JASTP..73.1129P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2011SPD....42.0908T,
+       author = {{Torok}, Tibor and {Panasenco}, O. and {Titov}, V. and {Mikic}, Z. and
+         {Reeves}, K. and {Velli}, M. and {Linker}, J. and {de Toma}, G.},
+        title = "{3d Mhd Simulation Of Sympathetic Eruptions On 1 August 2010}",
+    booktitle = {AAS/Solar Physics Division Abstracts \#42},
+         year = "2011",
+       series = {AAS/Solar Physics Division Meeting},
+        month = "May",
+          eid = {9.08},
+        pages = {9.08},
+       url = {https://ui.adsabs.harvard.edu/abs/2011SPD....42.0908T},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2010AGUFMSH51A1663P,
+       author = {{Panasenco}, O. and {Velli}, M.~M.},
+        title = "{Magnetic Structure of Twin Filaments Inside Pseudostreamers}",
+     keywords = {7507 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY / Chromosphere, 7509 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY / Corona, 7511 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY / Coronal holes, 7524 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY / Magnetic fields},
+    booktitle = {AGU Fall Meeting Abstracts},
+         year = "2010",
+       volume = {2010},
+        month = "Dec",
+          eid = {SH51A-1663},
+        pages = {SH51A-1663},
+       url = {https://ui.adsabs.harvard.edu/abs/2010AGUFMSH51A1663P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2010AGUFMSH51A1659P,
+       author = {{Pevtsov}, A.~A. and {Panasenco}, O.},
+        title = "{Coronal Mass Ejections from Empty Filament Channels}",
+     keywords = {7500 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY, 7513 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY / Coronal mass ejections, 7531 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY / Prominence eruptions},
+    booktitle = {AGU Fall Meeting Abstracts},
+         year = "2010",
+       volume = {2010},
+        month = "Dec",
+          eid = {SH51A-1659},
+        pages = {SH51A-1659},
+       url = {https://ui.adsabs.harvard.edu/abs/2010AGUFMSH51A1659P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2010AGUFMSH51A1658L,
+       author = {{Liewer}, P.~C. and {Hall}, J.~R. and {de Jong}, E.~M. and
+         {Martin}, S.~F. and {Panasenco}, O.},
+        title = "{Stereoscopic Analysis of 31 August 2007 Erupting Prominence}",
+     keywords = {7513 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY / Coronal mass ejections, 7531 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY / Prominence eruptions},
+    booktitle = {AGU Fall Meeting Abstracts},
+         year = "2010",
+       volume = {2010},
+        month = "Dec",
+          eid = {SH51A-1658},
+        pages = {SH51A-1658},
+       url = {https://ui.adsabs.harvard.edu/abs/2010AGUFMSH51A1658L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2010shin.confE.134P,
+       author = {{Panasenco}, Olga and {Velli}, Marco},
+        title = "{Non-radial and Non-coaligned Propagation of Erupting Filaments and CMEs}",
+    booktitle = {Solar Heliospheric and INterplanetary Environment (SHINE 2010)},
+         year = "2010",
+        month = "Jul",
+          eid = {134},
+        pages = {134},
+       url = {https://ui.adsabs.harvard.edu/abs/2010shin.confE.134P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2010shin.confE..96P,
+       author = {{Panasenco}, Olga and {Martin}, Sara and {Feynman}, Joan},
+        title = "{How New Active Regions Trigger Erupting Filaments and Associated Coronal Mass Ejections (CMEs)}",
+    booktitle = {Solar Heliospheric and INterplanetary Environment (SHINE 2010)},
+         year = "2010",
+        month = "Jul",
+          eid = {96},
+        pages = {96},
+       url = {https://ui.adsabs.harvard.edu/abs/2010shin.confE..96P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INBOOK{2010ASPC..428..123P,
+       author = {{Panasenco}, O. and {Pevtsov}, A.},
+        title = "{Magnetic Fields and H{\ensuremath{\alpha}} Filament Formation during Solar Minimum}",
+    booktitle = {SOHO-23: Understanding a Peculiar Solar Minimum},
+         year = "2010",
+       editor = {{Cranmer}, S.~R. and {Hoeksema}, J.~T. and {Kohl}, J.~L.},
+       volume = {428},
+       series = {Astronomical Society of the Pacific Conference Series},
+        pages = {123},
+       url = {https://ui.adsabs.harvard.edu/abs/2010ASPC..428..123P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2010MmSAI..81..673P,
+       author = {{Panasenco}, O.},
+        title = "{Spicules and prominences: their life together .}",
+      journal = {\memsai},
+     keywords = {Sun: chromosphere, Sun: corona, Sun: filaments, Sun: magnetic fields, Sun: photosphere, Sun: prominences},
+         year = "2010",
+        month = "Jan",
+       volume = {81},
+        pages = {673},
+       url = {https://ui.adsabs.harvard.edu/abs/2010MmSAI..81..673P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2010MmSAI..81..662M,
+       author = {{Martin}, S.~F. and {Panasenco}, O.},
+        title = "{On dynamical properties of filament channels}",
+      journal = {\memsai},
+     keywords = {Sun: chromosphere, Sun: corona, Sun: filaments, Sun: magnetic fields, Sun: photosphere},
+         year = "2010",
+        month = "Jan",
+       volume = {81},
+        pages = {662},
+       url = {https://ui.adsabs.harvard.edu/abs/2010MmSAI..81..662M},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INBOOK{2009ASPC..415..196P,
+       author = {{Panasenco}, O. and {Velli}, M.},
+        title = "{Plasma Motions in Prominences Observed by Hinode/SOT}",
+    booktitle = {The Second Hinode Science Meeting: Beyond Discovery-Toward Understanding},
+         year = "2009",
+       editor = {{Lites}, B. and {Cheung}, M. and {Magara}, T. and {Mariska}, J. and
+         {Reeves}, K.},
+       volume = {415},
+       series = {Astronomical Society of the Pacific Conference Series},
+        pages = {196},
+       url = {https://ui.adsabs.harvard.edu/abs/2009ASPC..415..196P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INBOOK{2009ASPC..415..183M,
+       author = {{Martin}, S.~F. and {Panasenco}, O. and {Agah}, Y. and {Engvold}, O. and
+         {Lin}, Y.},
+        title = "{Relating a Prominence Observed from the Solar Optical Telescope on the Hinode Satellite to Known 3-D Structures of Filaments}",
+    booktitle = {The Second Hinode Science Meeting: Beyond Discovery-Toward Understanding},
+         year = "2009",
+       editor = {{Lites}, B. and {Cheung}, M. and {Magara}, T. and {Mariska}, J. and
+         {Reeves}, K.},
+       volume = {415},
+       series = {Astronomical Society of the Pacific Conference Series},
+        pages = {183},
+       url = {https://ui.adsabs.harvard.edu/abs/2009ASPC..415..183M},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2009AGUFMSH11A1494P,
+       author = {{Panasenco}, O. and {Martin}, S.~F. and {Panasenco}, A.},
+        title = "{Filaments, filament channels and their visibility during the present solar minimum}",
+     keywords = {7507 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY / Chromosphere, 7509 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY / Corona, 7524 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY / Magnetic fields, 7529 SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY / Photosphere},
+    booktitle = {AGU Fall Meeting Abstracts},
+         year = "2009",
+       volume = {2009},
+        month = "Dec",
+          eid = {SH11A-1494},
+        pages = {SH11A-1494},
+       url = {https://ui.adsabs.harvard.edu/abs/2009AGUFMSH11A1494P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2009SPD....40.1010B,
+       author = {{Balasubramaniam}, K.~S. and {Cliver}, E. and {Pevtsov}, A. and
+         {Martin}, S. and {Panasenco}, O.},
+        title = "{Erupting Chromospheric Filaments}",
+    booktitle = {AAS/Solar Physics Division Meeting \#40},
+         year = "2009",
+       series = {AAS/Solar Physics Division Meeting},
+        month = "May",
+          eid = {10.10},
+        pages = {10.10},
+       url = {https://ui.adsabs.harvard.edu/abs/2009SPD....40.1010B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2008AGUFMSH41A1613P,
+       author = {{Panasenco}, O. and {Velli}, M. and {Landi}, S.},
+        title = "{Fine-Structured Plasma Flows in Prominences}",
+     keywords = {7507 Chromosphere, 7509 Corona, 7524 Magnetic fields, 7526 Magnetic reconnection (2723, 7835), 7529 Photosphere},
+    booktitle = {AGU Fall Meeting Abstracts},
+         year = "2008",
+       volume = {2008},
+        month = "Dec",
+          eid = {SH41A-1613},
+        pages = {SH41A-1613},
+       url = {https://ui.adsabs.harvard.edu/abs/2008AGUFMSH41A1613P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2008AnGeo..26.3061M,
+       author = {{Martin}, S.~F. and {Panasenco}, O. and {Engvold}, O. and {Lin}, Y.},
+        title = "{The link between CMEs, filaments and filament channels}",
+      journal = {Annales Geophysicae},
+         year = "2008",
+        month = "Oct",
+       volume = {26},
+       number = {10},
+        pages = {3061-3066},
+          doi = {10.5194/angeo-26-3061-2008},
+       url = {https://ui.adsabs.harvard.edu/abs/2008AnGeo..26.3061M},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2008AGUSMSH23A..05L,
+       author = {{Lin}, Y. and {Engvold}, O. and {Martin}, S. and {Panasenco}, O.},
+        title = "{The Unique 3D Magnetic Structure of Filaments}",
+     keywords = {7507 Chromosphere, 7509 Corona, 7524 Magnetic fields},
+    booktitle = {AGU Spring Meeting Abstracts},
+         year = "2008",
+       volume = {2008},
+        month = "May",
+          eid = {SH23A-05},
+        pages = {SH23A-05},
+       url = {https://ui.adsabs.harvard.edu/abs/2008AGUSMSH23A..05L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2008cosp...37.2337P,
+       author = {{Panasenco}, Olga and {Velli}, Marco and {Berger}, Thomas},
+        title = "{Vertical plasma motions in prominence sheets observed by Hinode}",
+    booktitle = {37th COSPAR Scientific Assembly},
+         year = "2008",
+       volume = {37},
+        month = "Jan",
+        pages = {2337},
+       url = {https://ui.adsabs.harvard.edu/abs/2008cosp...37.2337P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2008cosp...37.2336P,
+       author = {{Panasenco}, Olga and {Martin}, Sara F. and {Engvold}, Oddbjorn},
+        title = "{Chromospheric and coronal manifestations of photospheric cancelling magnetic fields}",
+    booktitle = {37th COSPAR Scientific Assembly},
+         year = "2008",
+       volume = {37},
+        month = "Jan",
+        pages = {2336},
+       url = {https://ui.adsabs.harvard.edu/abs/2008cosp...37.2336P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2008cosp...37..562C,
+       author = {{Cliver}, Edward and {Balasubramaniam}, K.~S. and {Cliver}, E.~W. and
+         {Engvold}, O. and {Pevtsov}, A. and {Martin}, S. and {Panasenco}, O.},
+        title = "{Chromospheric observations of erupting filaments with the Optical Solar Patrol Network (OSPaN) telescope}",
+    booktitle = {37th COSPAR Scientific Assembly},
+         year = "2008",
+       volume = {37},
+        month = "Jan",
+        pages = {562},
+       url = {https://ui.adsabs.harvard.edu/abs/2008cosp...37..562C},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INBOOK{2008ASPC..383..243P,
+       author = {{Panasenco}, O. and {Martin}, S.~F.},
+        title = "{Topological Analyses of Symmetric Eruptive Prominences}",
+    booktitle = {Subsurface and Atmospheric Influences on Solar Activity},
+         year = "2008",
+       editor = {{Howe}, R. and {Komm}, R.~W. and {Balasubramaniam}, K.~S. and
+         {Petrie}, G.~J.~D.},
+       volume = {383},
+       series = {Astronomical Society of the Pacific Conference Series},
+        pages = {243},
+       url = {https://ui.adsabs.harvard.edu/abs/2008ASPC..383..243P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2007AGUFMSH41B..07P,
+       author = {{Panasenco}, O. and {Martin}, S.~F.},
+        title = "{STEREO 3D Data of the Fast Formation of the Ribbon-Like Prominences and Their Dynamics During Eruption}",
+     keywords = {7507 Chromosphere, 7509 Corona, 7526 Magnetic reconnection (2723, 7835), 7529 Photosphere, 7531 Prominence eruptions},
+    booktitle = {AGU Fall Meeting Abstracts},
+         year = "2007",
+       volume = {2007},
+        month = "Dec",
+          eid = {SH41B-07},
+        pages = {SH41B-07},
+       url = {https://ui.adsabs.harvard.edu/abs/2007AGUFMSH41B..07P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2006AdSpR..37.1305V,
+       author = {{Veselovsky}, I.~S. and {Panasenco}, O.~A.},
+        title = "{Coronal mass ejection and solar flare initiation processes without appreciable changes of the large-scale magnetic field topology}",
+      journal = {Advances in Space Research},
+         year = "2006",
+        month = "Jan",
+       volume = {37},
+       number = {7},
+        pages = {1305-1312},
+          doi = {10.1016/j.asr.2005.03.084},
+       url = {https://ui.adsabs.harvard.edu/abs/2006AdSpR..37.1305V},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2005AGUFMSM51B1300P,
+       author = {{Panasenco}, O. and {Veselovsky}, I.},
+        title = "{On the Statistics of the Seasonal Geomagnetic Variations.}",
+     keywords = {3225 Numerical approximations and analysis (4260), 7954 Magnetic storms (2788)},
+    booktitle = {AGU Fall Meeting Abstracts},
+         year = "2005",
+       volume = {2005},
+        month = "Dec",
+          eid = {SM51B-1300},
+        pages = {SM51B-1300},
+       url = {https://ui.adsabs.harvard.edu/abs/2005AGUFMSM51B1300P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2005AdSpR..36.1595P,
+       author = {{Panasenco}, O. and {Veselovsky}, I.~S. and {Dmitriev}, A.~V. and
+         {Zhukov}, A.~N. and {Yakovchouk}, O.~S. and {Zhitnik}, I.~A. and
+         {Ignat'ev}, A.~P. and {Kuzin}, S.~V. and {Pertsov}, A.~A. and
+         {Slemzin}, V.~A. and {Boldyrev}, S.~I. and {Romashets}, E.~P. and
+         {Stepanov}, A. and {Bugaenco}, O.~I. and {Bothmer}, V. and
+         {Koutchmy}, S. and {Adjabshirizadeh}, A. and {Fazel}, Z. and
+         {Sobhanian}, S.},
+        title = "{Solar origins of intense geomagnetic storms in 2002 as seen by the CORONAS-F satellite}",
+      journal = {Advances in Space Research},
+         year = "2005",
+        month = "Jan",
+       volume = {36},
+       number = {8},
+        pages = {1595-1603},
+          doi = {10.1016/j.asr.2005.08.029},
+       url = {https://ui.adsabs.harvard.edu/abs/2005AdSpR..36.1595P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2004CosRe..42..435V,
+       author = {{Veselovsky}, I.~S. and {Panasyuk}, M.~I. and {Avdyushin}, S.~I. and
+         {Bazilevskaya}, G.~A. and {Belov}, A.~V. and {Bogachev}, S.~A. and
+         {Bogod}, V.~M. and {Bogomolov}, A.~V. and {Bothmer}, V. and
+         {Boyarchuk}, K.~A. and {Vashenyuk}, E.~V. and {Vlasov}, V.~I. and
+         {Gnezdilov}, A.~A. and {Gorgutsa}, R.~V. and {Grechnev}, V.~V. and
+         {Denisov}, Yu. I. and {Dmitriev}, A.~V. and {Dryer}, M. and
+         {Yermolaev}, Yu. I. and {Eroshenko}, E.~A. and {Zherebtsov}, G.~A. and
+         {Zhitnik}, I.~A. and {Zhukov}, A.~N. and {Zastenker}, G.~N. and
+         {Zelenyi}, L.~M. and {Zeldovich}, M.~A. and {Ivanov-Kholodnyi}, G.~S. and
+         {Ignat'ev}, A.~P. and {Ishkov}, V.~N. and {Kolomiytsev}, O.~P. and
+         {Krasheninnikov}, I.~A. and {Kudela}, K. and {Kuzhevsky}, B.~M. and
+         {Kuzin}, S.~V. and {Kuznetsov}, V.~D. and {Kuznetsov}, S.~N. and
+         {Kurt}, V.~G. and {Lazutin}, L.~L. and {Leshchenko}, L.~N. and
+         {Litvak}, M.~L. and {Logachev}, Yu. I. and {Lawrence}, G. and
+         {Markeev}, A.~K. and {Makhmutov}, V.~S. and {Mitrofanov}, A.~V. and
+         {Mitrofanov}, I.~G. and {Morozov}, O.~V. and {Myagkova}, I.~N. and
+         {Nusinov}, A.~A. and {Oparin}, S.~N. and {Panasenco}, O.~A. and
+         {Pertsov}, A.~A. and {Petrukovich}, A.~A. and {Podorol'sky}, A.~N. and
+         {Romashets}, E.~P. and {Svertilov}, S.~I. and {Svidsky}, P.~M. and
+         {Svirzhevskaya}, A.~K. and {Svirzhevsky}, N.~S. and {Slemzin}, V.~A. and
+         {Smith}, Z. and {Sobel'man}, I.~I. and {Sobolev}, D.~E. and
+         {Stozhkov}, Yu. I. and {Suvorova}, A.~V. and {Sukhodrev}, N.~K. and
+         {Tindo}, I.~P. and {Tokhchukova}, S. Kh. and {Fomichev}, V.~V. and
+         {Chashey}, I.~V. and {Chertok}, I.~M. and {Shishov}, V.~I. and
+         {Yushkov}, B. Yu. and {Yakovchouk}, O.~S. and {Yanke}, V.~G.},
+        title = "{Solar and Heliospheric Phenomena in October-November 2003: Causes and Effects}",
+      journal = {Cosmic Research},
+         year = "2004",
+        month = "Sep",
+       volume = {42},
+       number = {5},
+        pages = {435-488},
+          doi = {10.1023/B:COSM.0000046229.24716.02},
+       url = {https://ui.adsabs.harvard.edu/abs/2004CosRe..42..435V},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2004cosp...35.3005P,
+       author = {{Panasenco}, O. and {Panasenco Team}},
+        title = "{Solar origins of intense geomagnetic storms in 2002 as seen by the CORONAS-F satellite.}",
+    booktitle = {35th COSPAR Scientific Assembly},
+         year = "2004",
+       volume = {35},
+        month = "Jan",
+        pages = {3005},
+       url = {https://ui.adsabs.harvard.edu/abs/2004cosp...35.3005P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2004cosp...35.2974P,
+       author = {{Panasenco}, O. and {Veselovsky}, I.~S. and {Zhukov}, A.~N. and
+         {Yakovchouk}, O.~S. and {Koutchmy}, S. and {Delaboudiniere}, J. -P.},
+        title = "{Dynamics of the loop prominence and coronal mass ejection observed on March 2, 2002}",
+    booktitle = {35th COSPAR Scientific Assembly},
+         year = "2004",
+       volume = {35},
+        month = "Jan",
+        pages = {2974},
+       url = {https://ui.adsabs.harvard.edu/abs/2004cosp...35.2974P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2002ESASP.508..461V,
+       author = {{Veselovsky}, Igor S. and {Panasenco}, O.~A.},
+        title = "{Non-local dissipative structures in the solar corona: flaring loops}",
+     keywords = {Solar Corona, Loops, Electrojets},
+    booktitle = {From Solar Min to Max: Half a Solar Cycle with SOHO},
+         year = "2002",
+       editor = {{Wilson}, A.},
+       series = {ESA Special Publication},
+       volume = {508},
+        month = "Jun",
+        pages = {461-464},
+       url = {https://ui.adsabs.harvard.edu/abs/2002ESASP.508..461V},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2002ESASP.508..189Z,
+       author = {{Zhukov}, A.~N. and {Veselovsky}, I.~S. and {Hochedez}, J. -F. and
+         {Clette}, F. and {Panasenco}, O.~A. and {Cugnon}, P.},
+        title = "{Global asymmetry of the Sun observed in the extreme ultraviolet radiation}",
+     keywords = {Sun: EUV Radiation, Irradiance, EIT},
+    booktitle = {From Solar Min to Max: Half a Solar Cycle with SOHO},
+         year = "2002",
+       editor = {{Wilson}, A.},
+       series = {ESA Special Publication},
+       volume = {508},
+        month = "Jun",
+        pages = {189-192},
+       url = {https://ui.adsabs.harvard.edu/abs/2002ESASP.508..189Z},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2002SoSyR..36...80V,
+       author = {{Veselovsky}, I.~S. and {Zhukov}, A.~N. and {Panasenco}, O.~A.},
+        title = "{Reversal of Heliospheric Magnetic Field Polarity: Theoretical Model}",
+      journal = {Solar System Research},
+         year = "2002",
+        month = "Jan",
+       volume = {36},
+       number = {1},
+        pages = {80-84},
+       url = {https://ui.adsabs.harvard.edu/abs/2002SoSyR..36...80V},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2002EGSGA..27.6768B,
+       author = {{Bothmer}, V. and {Cargill}, P. and {Dmitriev}, A.~V. and
+         {Ivanov}, K.~G. and {Kharshiladze}, A.~F. and {Panasenco}, O.~A. and
+         {Romashets}, E.~P. and {Veselovsky}, I.~S. and {Zhukov}, A.~N.},
+        title = "{Processes On The Sun and In The Heliosphere Responsible For Geomagnetic Perturbations During The Rising Phase and Maximum of 23-rd Solar Cycle}",
+    booktitle = {EGS General Assembly Conference Abstracts},
+         year = "2002",
+       series = {EGS General Assembly Conference Abstracts},
+        month = "Jan",
+          eid = {6768},
+        pages = {6768},
+       url = {https://ui.adsabs.harvard.edu/abs/2002EGSGA..27.6768B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2002cosp...34E.415V,
+       author = {{Veselovsky}, I. and {Panasenco}, O. and {Zhukov}, A.},
+        title = "{Multi-scale electric currents and their volume convolutions in the solar corona and the heliosphere}",
+    booktitle = {34th COSPAR Scientific Assembly},
+         year = "2002",
+       volume = {34},
+        month = "Jan",
+          eid = {415},
+        pages = {415},
+       url = {https://ui.adsabs.harvard.edu/abs/2002cosp...34E.415V},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2002cosp...34E.376V,
+       author = {{Veselovsky}, I. and {Panasenco}, O. and {Zhukov}, A.},
+        title = "{Heliospheric magnetic field polarity reversal: theoretical model}",
+    booktitle = {34th COSPAR Scientific Assembly},
+         year = "2002",
+       volume = {34},
+        month = "Jan",
+          eid = {376},
+        pages = {376},
+       url = {https://ui.adsabs.harvard.edu/abs/2002cosp...34E.376V},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
 </textarea>
+
 <div id="bibtex_display"></div>
 {% endraw  %}
+The magnetic field measurements of the FIELDS instrument on the Parker Solar Probe (PSP) have shown intensities, throughout its first solar encounter, that require a very low source surface (SS) height to be reconciled with magnetic field measurements at the Sun via potential field extrapolation (PFSS). However, during PSP's second encounter, the situation went back to a more classic SS height. Here we use high-resolution observations of the photospheric magnetic field (Solar Dynamics Observatory/Helioseismic and Magnetic Imager) to calculate neutral lines and boundaries of the open field regions for SS heights from 1.2 to 2.5 R⊙ using an evolving PFSS model and the measured solar wind speed to trace the source of the wind observed by PSP to the low corona and photosphere. We adjust R SS to get the best match for the field polarity over the period 2018 October–November and 2019 March–April, finding that the best fit for the observed magnetic field polarity inversions requires a nonspherical SS. The geometry of the coronal hole boundaries for different R SS is tested using the PSP perihelion passes, 3D PFSS models, and LASCO/C2 observations. We investigate the sources of stronger-than-average magnetic fields and times of Alfvénic fast and slow wind. Only some of the strongly Alfvénic slow wind streams seen by PSP survive and are observed at 1 au: the origins and peculiar topology of the background in which they propagate is discussed.
