@@ -27,4 +27,5 @@ The magnetic field measurements of the FIELDS instrument on the Parker Solar Pro
 SS to get the best match for the field polarity over the period 2018 October–November and 2019 March–April, finding that the best fit for the observed magnetic field polarity inversions requires a nonspherical SS. The geometry of the coronal hole boundaries for different R
 SS is tested using the PSP perihelion passes, 3D PFSS models, and LASCO/C2 observations. We investigate the sources of stronger-than-average magnetic fields and times of Alfvénic fast and slow wind. Only some of the strongly Alfvénic slow wind streams seen by PSP survive and are observed at 1 au: the origins and peculiar topology of the background in which they propagate is discussed.}
 }
+<div id="bibtex_display"></div>
 {% endraw  %}
