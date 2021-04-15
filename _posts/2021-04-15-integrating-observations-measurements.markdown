@@ -7,9 +7,9 @@ image: "/assets/images/Fig1_E8_predictiton11_PSP_SO.png"
 ---
 The launch of Parker Solar Probe (PSP) in 2018, followed by Solar Orbiter (SO) in February 2020, has opened a new window in the exploration of solar magnetic activity and the origin of the heliosphere. These missions, together with other space observatories dedicated to solar observations, such as the Solar Dynamics Observatory, Hinode, IRIS, STEREO, and SOHO, with complementary in situ observations from WIND and ACE, and ground based multi-wavelength observations including the DKIST observatory that has just seen first light, promise to revolutionize our understanding of the solar atmosphere and of solar activity, from the generation and emergence of the Sun's magnetic field to the creation of the solar wind and the acceleration of solar energetic particles.
 {% raw  %}
-<img src="/assets/images/Fig1_E8_predictiton11_PSP_SO.png">
-<img src="/assets/images/Fig2_20210414_PFSS_B2_PSP_SO_E8.png">
-<img src="/assets/images/Fig3_20210414_PFSS_B2_Earth_SO_superposition.png">
+{% include image.html url="/assets/images/Fig1_E8_predictiton11_PSP_SO.png" description="April 3, 2021 prediction for E8" %}
+{% include image.html url="/assets/images/Fig2_20210414_PFSS_B2_PSP_SO_E8.png" description="April 14, 2021 magnetic map and connectivity prediction for E8" %}
+{% include image.html url="/assets/images/Fig3_20210414_PFSS_B2_Earth_SO_superposition.png" description="April 14, 2021 magnetic map and connectivity prediction for E8" %}
 <textarea id="bibtex_input" style="display:none;">
 @article{velli2020understanding,
   title={Understanding the origins of the heliosphere: integrating observations and measurements from Parker Solar Probe, Solar Orbiter, and other space-and ground-based observatories},
