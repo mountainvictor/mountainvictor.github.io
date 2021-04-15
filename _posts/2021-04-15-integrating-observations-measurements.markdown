@@ -22,7 +22,9 @@ The launch of Parker Solar Probe (PSP) in 2018, followed by Solar Orbiter (SO) i
     </a>
 </div>
 <script>
-    lightGallery(document.getElementById('lightgallery'));
+    lightGallery(document.getElementById('lightgallery'), {
+        thumbnail:true
+    }); 
 </script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js/src/bibtex_js.js"></script>
 
