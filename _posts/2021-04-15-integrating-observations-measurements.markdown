@@ -21,6 +21,9 @@ The launch of Parker Solar Probe (PSP) in 2018, followed by Solar Orbiter (SO) i
         <img src="/assets/images/Fig3_20210414_PFSS_B2_Earth_SO_superposition.png">
     </a>
 </div>
+<script>
+    lightGallery(document.getElementById('lightgallery'));
+</script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js/src/bibtex_js.js"></script>
 
 <textarea id="bibtex_input" style="display:none;">
