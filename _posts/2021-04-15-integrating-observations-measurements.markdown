@@ -27,6 +27,8 @@ Notations in figures:
 <p></p>
 <textarea id="bibtex_input" style="display:none;">
 @article{panasenco2020exploring,
+  doi={10.3847/1538-4365/ab61f4},
+  url={https://ui.adsabs.harvard.edu/link_gateway/2020ApJS..246...54P/doi:10.3847/1538-4365/ab61f4},
   title={Exploring solar wind origins and connecting plasma flows from the parker solar probe to 1 au: nonspherical source surface and Alfv{\'e}nic fluctuations},
   author={Panasenco, Olga and Velli, Marco and D’amicis, Raffaella and Shi, Chen and R{\'e}ville, Victor and Bale, Stuart D and Badman, Samuel T and Kasper, Justin and Korreck, Kelly and Bonnell, JW and others},
   journal={The Astrophysical Journal Supplement Series},
@@ -37,6 +39,8 @@ Notations in figures:
   publisher={IOP Publishing}
 }
 @article{velli2020understanding,
+  doi={10.1051/0004-6361/202038245},
+  url={https://ui.adsabs.harvard.edu/link_gateway/2020A&A...642A...4V/doi:10.1051/0004-6361/202038245},
   title={Understanding the origins of the heliosphere: integrating observations and measurements from Parker Solar Probe, Solar Orbiter, and other space-and ground-based observatories},
   author={Velli, M and Harra, Louise K and Vourlidas, Angelos and Schwadron, N and Panasenco, O and Liewer, PC and M{\"u}ller, D and Zouganelis, I and St Cyr, OC and Gilbert, H and others},
   journal={Astronomy \& Astrophysics},
