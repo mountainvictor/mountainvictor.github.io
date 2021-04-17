@@ -13,12 +13,12 @@ Synergies between PSP, Solar Orbiter and 1 au observations
 
 Notations in figures:
   - Source maps and mission magnetic connectivity: PFSS magnetic pressure contour maps and solar wind magnetic foot-points along the PSP, Solar Orbiter and Earth trajectories for the time shown under the symbols or at the top of figures.
-  - The projection of a mission location - PSP (blue diamond), Solar Orbiter (orange square), Earth (green circle) on the source surface (blue, orange, green crosses) and down to the solar wind source region (blue, orange, green circles) calculated for the height R = 1.2Rs and measured (or predicted)  in situ solar wind speed ± 80 km s −1 .
+  - The projection of a mission location - PSP (blue diamond), Solar Orbiter (orange square), Earth (green circle) on the source surface (blue, orange, green crosses) and down to the solar wind source region (blue, orange, green circles) calculated for the height R = 1.2Rs and measured (or predicted)  in situ solar wind speed ± 80 km s<sup>−1</sup> .
   - Open magnetic ﬁeld regions shown in blue (negative) and yellow-green (positive), the neutral line is in black bold.
 
 {% include image.html url="/assets/images/Fig1_E8_predictiton11_PSP_SO.png" description="April 3, 2021 prediction for E8" %}
 
-{% include image.html url="/assets/images/Fig2_20210414_PFSS_B2_PSP_SO_E8.png" description="April 14, 2021 magnetic map and connectivity prediction for E8. The Earth on Apr 14, 18:00 UT was connected to the magnetic region to which PSP will be connected at its perihelion in 2 weeks, and Solar Orbiter will be connected early May: it is a good opportunity for the ground-based observations ahead of the PSP perihelium on 29 April." %}
+{% include image.html url="/assets/images/Fig2_20210414_PFSS_B2_PSP_SO_E8.png" description="April 14, 2021 magnetic map and connectivity prediction for E8. The Earth on Apr 14, 18:00 UT was connected to the magnetic region to which PSP will be connected at its perihelion in 2 weeks, and Solar Orbiter will be connected early May: it is a good opportunity for the ground-based observations ahead of the PSP perihelion on 29 April." %}
 
 {% include image.html url="/assets/images/Fig3_20210414_PFSS_B2_Earth_SO_superposition.png" description="April 14, 2021 magnetic map and connectivity prediction for E8. This gives the possibility to study evolution of the  solar wind properties from the same solar sources as PSP will observe a few weeks later." %}
 
