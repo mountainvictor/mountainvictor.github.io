@@ -22,6 +22,8 @@ Notations in figures:
 
 {% include image.html url="/assets/images/Fig3_20210414_PFSS_B2_Earth_SO_superposition.png" description="April 14, 2021 magnetic map and connectivity prediction for E8. This gives the possibility to study evolution of the  solar wind properties from the same solar sources as PSP will observe a few weeks later." %}
 
+{% include image.html url="/assets/images/20210417_PFSS_B2_PSP_SO_E8_2.png" description="April 17, 2021 18:00 UT magnetic map and connectivity predictions for E8: PSP connections shown for April 17, 28 and 29; Solar Orbiter connections shown for April 17." %}
+
 {% raw  %}
 <p></p>
 <p></p>
