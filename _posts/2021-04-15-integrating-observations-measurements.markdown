@@ -7,7 +7,8 @@ image: "/assets/images/20210424_0600_PFSS_B2_Rss2.5_R1.2_E8_predictions_2.png"
 ---
 The launch of Parker Solar Probe (PSP) in 2018, followed by Solar Orbiter (SO) in February 2020, has opened a new window in the exploration of solar magnetic activity and the origin of the heliosphere. These missions, together with other space observatories dedicated to solar observations, such as the Solar Dynamics Observatory, Hinode, IRIS, STEREO, and SOHO, with complementary in situ observations from WIND and ACE, and ground based multi-wavelength observations including the DKIST observatory that has just seen first light, promise to revolutionize our understanding of the solar atmosphere and of solar activity, from the generation and emergence of the Sun's magnetic field to the creation of the solar wind and the acceleration of solar energetic particles.
 
-<h2 style="color: #ed2124; text-align: center;">PSP E8 observing campaign April 24 - May 8, 2021</h2>
+<h2 style="color: #ed2124; text-align: center;">PSP E8 observing campaign</h2>
+<h2 style="color: #ed2124; text-align: center;">April 24 - May 8, 2021</h2>
 
 Magnetic connections for PSP, Solar Orbiter and 1au in support of the [WHPI campaign](https://whpi.hao.ucar.edu/whpi_campaign-psp8p.php). Modeling results will be updated regularly.
 
