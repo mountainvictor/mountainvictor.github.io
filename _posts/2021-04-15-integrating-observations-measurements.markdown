@@ -3,14 +3,18 @@ layout: post
 title: "Integrating observations and measurements from Parker Solar Probe, Solar Orbiter, and other space- and ground-based observatories"
 date: 2021-04-15
 description: 
-image: "/assets/images/Fig1_E8_predictiton11_PSP_SO.png"
+image: "/assets/images/20210424_0600_PFSS_B2_Rss2.5_R1.2_E8_predictions_2.png"
 ---
 The launch of Parker Solar Probe (PSP) in 2018, followed by Solar Orbiter (SO) in February 2020, has opened a new window in the exploration of solar magnetic activity and the origin of the heliosphere. These missions, together with other space observatories dedicated to solar observations, such as the Solar Dynamics Observatory, Hinode, IRIS, STEREO, and SOHO, with complementary in situ observations from WIND and ACE, and ground based multi-wavelength observations including the DKIST observatory that has just seen first light, promise to revolutionize our understanding of the solar atmosphere and of solar activity, from the generation and emergence of the Sun's magnetic field to the creation of the solar wind and the acceleration of solar energetic particles.
 
-## Actual positions and magnetic connections for PSP Encounter 8 (24/04/2021–01/05/2021)
+<h2 style="color: #ed2124; text-align: center;">PSP E8 observing campaign April 24 - May 8, 2021</h2>
+
+Magnetic connections for PSP, Solar Orbiter and 1au in support of the [WHPI campaign](https://whpi.hao.ucar.edu/whpi_campaign-psp8p.php). Modeling results will be updated regularly.
+
+## Current predictions, actual positions and magnetic connections for PSP Encounter 8
 {% include image.html url="/assets/images/20210423_0600_PFSS_B2_Rss2.5_R1.2_E8.png" description="Positions and magnetic connections for 23 April 2021 (E8)" %}
 
-## Prediction for PSP Encounter 8 (24/04/2021–01/05/2021)
+## Earlier predictions for PSP Encounter 8
 
 Synergies between PSP, Solar Orbiter and 1 au observations 
 
@@ -27,33 +31,57 @@ Notations in figures:
 
 {% include image.html url="/assets/images/20210417_PFSS_B2_PSP_SO_E8_2.png" description="April 17, 2021 18:00 UT magnetic map and connectivity predictions for E8: PSP connections shown for April 17, 28 and 29; Solar Orbiter connections shown for April 17." %}
 
+## About our modeling
+We use the PFSS model developed by [Schrijver & De Rosa (2003)](https://ui.adsabs.harvard.edu/abs/2003SoPh..212..165S).
+For further details see Section 2 in [Panasenco et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJS..246...54P).
+
 {% raw  %}
 <p></p>
 <p></p>
 <textarea id="bibtex_input" style="display:none;">
-@article{panasenco2020exploring,
-  doi={10.3847/1538-4365/ab61f4},
-  url={https://ui.adsabs.harvard.edu/link_gateway/2020ApJS..246...54P/doi:10.3847/1538-4365/ab61f4},
-  title={Exploring solar wind origins and connecting plasma flows from the parker solar probe to 1 au: nonspherical source surface and Alfv{\'e}nic fluctuations},
-  author={Panasenco, Olga and Velli, Marco and D’amicis, Raffaella and Shi, Chen and R{\'e}ville, Victor and Bale, Stuart D and Badman, Samuel T and Kasper, Justin and Korreck, Kelly and Bonnell, JW and others},
-  journal={The Astrophysical Journal Supplement Series},
-  volume={246},
-  number={2},
-  pages={54},
-  year={2020},
-  publisher={IOP Publishing}
+@ARTICLE{2020ApJS..246...54P,
+       author = {{Panasenco}, O and {Velli}, M and {D'Amicis}, R and {Shi}, C and {R{\'e}ville}, V and {Bale}, SD and {Badman}, ST and {Kasper}, J and {Korreck}, K and {Bonnell}, JW. and {Wit}, D and {Goetz}, K and {Harvey}, PR and {MacDowall}, RJ and {Malaspina}, DM and {Pulupa}, M and {Case}, AW and {Larson}, D and {Livi}, R and {Stevens}, M and {Whittlesey}, P},
+        title = "{Exploring Solar Wind Origins and Connecting Plasma Flows from the Parker Solar Probe to 1 au: Nonspherical Source Surface and Alfv{\'e}nic Fluctuations}",
+      journal = {\apjs},
+     keywords = {1693, 1873, 23, 1544, 1475, 1503, 1483, 1872, 1484, 310, 1486, 1495},
+         year = 2020,
+        month = feb,
+       volume = {246},
+       number = {2},
+          eid = {54},
+        pages = {54},
+          doi = {10.3847/1538-4365/ab61f4},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2020ApJS..246...54P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
-@article{velli2020understanding,
-  doi={10.1051/0004-6361/202038245},
-  url={https://ui.adsabs.harvard.edu/link_gateway/2020A&A...642A...4V/doi:10.1051/0004-6361/202038245},
-  title={Understanding the origins of the heliosphere: integrating observations and measurements from Parker Solar Probe, Solar Orbiter, and other space-and ground-based observatories},
-  author={Velli, M and Harra, Louise K and Vourlidas, Angelos and Schwadron, N and Panasenco, O and Liewer, PC and M{\"u}ller, D and Zouganelis, I and St Cyr, OC and Gilbert, H and others},
-  journal={Astronomy \& Astrophysics},
-  volume={642},
-  pages={A4},
-  year={2020},
-  publisher={EDP Sciences}
+@ARTICLE{2003SoPh..212..165S,
+       author = {{Schrijver}, CJ and {De Rosa}, ML},
+        title = "{Photospheric and heliospheric magnetic fields}",
+      journal = {\solphys},
+         year = 2003,
+        month = jan,
+       volume = {212},
+       number = {1},
+        pages = {165-200},
+          doi = {10.1023/A:1022908504100},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2003SoPh..212..165S},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
+@ARTICLE{2020A&A...642A...4V,
+       author = {{Velli}, M. and {Harra}, L.~K. and {Vourlidas}, A. and {Schwadron}, N. and {Panasenco}, O. and {Liewer}, P.~C. and {M{\"u}ller}, D. and {Zouganelis}, I. and {St Cyr}, O.~C. and {Gilbert}, H. and {Nieves-Chinchilla}, T. and {Auch{\`e}re}, F. and {Berghmans}, D. and {Fludra}, A. and {Horbury}, T.~S. and {Howard}, R.~A. and {Krucker}, S. and {Maksimovic}, M. and {Owen}, C.~J. and {Rodr{\'\i}guez-Pacheco}, J. and {Romoli}, M. and {Solanki}, S.~K. and {Wimmer-Schweingruber}, R.~F. and {Bale}, S. and {Kasper}, J. and {McComas}, D.~J. and {Raouafi}, N. and {Martinez-Pillet}, V. and {Walsh}, A.~P. and {De Groof}, A. and {Williams}, D.},
+        title = "{Understanding the origins of the heliosphere: integrating observations and measurements from Parker Solar Probe, Solar Orbiter, and other space- and ground-based observatories}",
+      journal = {\aap},
+     keywords = {solar-terrestrial relations, Sun: heliosphere, Sun: corona, solar wind, Sun: magnetic fields, Sun: atmosphere},
+         year = 2020,
+        month = oct,
+       volume = {642},
+          eid = {A4},
+        pages = {A4},
+          doi = {10.1051/0004-6361/202038245},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2020A&A...642A...4V},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
 </textarea>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js/src/bibtex_js.js"></script>
 <div id="bibtex_display"></div>
