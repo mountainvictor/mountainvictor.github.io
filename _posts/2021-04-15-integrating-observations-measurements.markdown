@@ -40,6 +40,8 @@ For further details see Section 2 in [Panasenco et al. (2020)](https://ui.adsabs
 <p></p>
 <textarea id="bibtex_input" style="display:none;">
 @ARTICLE{2020ApJS..246...54P,
+ doi={10.3847/1538-4365/ab61f4},
+  url={https://ui.adsabs.harvard.edu/link_gateway/2020ApJS..246...54P/doi:10.3847/1538-4365/ab61f4},
        author = {{Panasenco}, O and {Velli}, M and {D'Amicis}, R and {Shi}, C and {R{\'e}ville}, V and {Bale}, SD and {Badman}, ST and {Kasper}, J and {Korreck}, K and {Bonnell}, JW. and {Wit}, D and {Goetz}, K and {Harvey}, PR and {MacDowall}, RJ and {Malaspina}, DM and {Pulupa}, M and {Case}, AW and {Larson}, D and {Livi}, R and {Stevens}, M and {Whittlesey}, P},
         title = "{Exploring Solar Wind Origins and Connecting Plasma Flows from the Parker Solar Probe to 1 au: Nonspherical Source Surface and Alfv{\'e}nic Fluctuations}",
       journal = {\apjs},
@@ -55,6 +57,8 @@ For further details see Section 2 in [Panasenco et al. (2020)](https://ui.adsabs
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 @ARTICLE{2003SoPh..212..165S,
+doi={10.1023/A:1022908504100},
+url={https://ui.adsabs.harvard.edu/link_gateway/2003SoPh..212..165S/doi:10.1023/A:1022908504100},
        author = {{Schrijver}, CJ and {De Rosa}, ML},
         title = "{Photospheric and heliospheric magnetic fields}",
       journal = {\solphys},
@@ -67,21 +71,17 @@ For further details see Section 2 in [Panasenco et al. (2020)](https://ui.adsabs
        adsurl = {https://ui.adsabs.harvard.edu/abs/2003SoPh..212..165S},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
-@ARTICLE{2020A&A...642A...4V,
-       author = {{Velli}, M. and {Harra}, L.~K. and {Vourlidas}, A. and {Schwadron}, N. and {Panasenco}, O. and {Liewer}, P.~C. and {M{\"u}ller}, D. and {Zouganelis}, I. and {St Cyr}, O.~C. and {Gilbert}, H. and {Nieves-Chinchilla}, T. and {Auch{\`e}re}, F. and {Berghmans}, D. and {Fludra}, A. and {Horbury}, T.~S. and {Howard}, R.~A. and {Krucker}, S. and {Maksimovic}, M. and {Owen}, C.~J. and {Rodr{\'\i}guez-Pacheco}, J. and {Romoli}, M. and {Solanki}, S.~K. and {Wimmer-Schweingruber}, R.~F. and {Bale}, S. and {Kasper}, J. and {McComas}, D.~J. and {Raouafi}, N. and {Martinez-Pillet}, V. and {Walsh}, A.~P. and {De Groof}, A. and {Williams}, D.},
-        title = "{Understanding the origins of the heliosphere: integrating observations and measurements from Parker Solar Probe, Solar Orbiter, and other space- and ground-based observatories}",
-      journal = {\aap},
-     keywords = {solar-terrestrial relations, Sun: heliosphere, Sun: corona, solar wind, Sun: magnetic fields, Sun: atmosphere},
-         year = 2020,
-        month = oct,
-       volume = {642},
-          eid = {A4},
-        pages = {A4},
-          doi = {10.1051/0004-6361/202038245},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2020A&A...642A...4V},
-      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+@article{velli2020understanding,
+  doi={10.1051/0004-6361/202038245},
+  url={https://ui.adsabs.harvard.edu/link_gateway/2020A&A...642A...4V/doi:10.1051/0004-6361/202038245},
+  title={Understanding the origins of the heliosphere: integrating observations and measurements from Parker Solar Probe, Solar Orbiter, and other space-and ground-based observatories},
+  author={Velli, M and Harra, Louise K and Vourlidas, Angelos and Schwadron, N and Panasenco, O and Liewer, PC and M{\"u}ller, D and Zouganelis, I and St Cyr, OC and Gilbert, H and others},
+  journal={Astronomy \& Astrophysics},
+  volume={642},
+  pages={A4},
+  year={2020},
+  publisher={EDP Sciences}
 }
-
 </textarea>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js/src/bibtex_js.js"></script>
 <div id="bibtex_display"></div>
