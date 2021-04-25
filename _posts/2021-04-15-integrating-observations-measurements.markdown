@@ -13,16 +13,15 @@ The launch of Parker Solar Probe (PSP) in 2018, followed by Solar Orbiter (SO) i
 Magnetic connections for PSP, Solar Orbiter and 1au in support of the [WHPI campaign](https://whpi.hao.ucar.edu/whpi_campaign-psp8p.php). Modeling results will be updated regularly.
 
 ## Current predictions, actual positions and magnetic connections for PSP Encounter 8
+{% include image.html url="/assets/images/20210424_0600_PFSS_B2_Rss2.5_R1.2_E8_predictions_2.png" description="PSP and Orbiter current positions (Apr 24) and predicted connections (Apr 28, 29 and May 4, 2021)." %}
+
 {% include image.html url="/assets/images/20210423_0600_PFSS_B2_Rss2.5_R1.2_E8.png" description="The spacecraft and Earth positions and magnetic connections for 23 April 2021 (E8)." %}
+
+{% include image.html url="/assets/images/20210423_ADO_AIA193.png" description="SDO AIA image corresponding to the above Apr 23 map" %}
 
 ## Earlier predictions for PSP Encounter 8
 
 Synergies between PSP, Solar Orbiter and 1 au observations 
-
-Notations in figures:
-  - Source maps and mission magnetic connectivity: PFSS magnetic pressure contour maps and solar wind magnetic foot-points along the PSP, Solar Orbiter and Earth trajectories for the time shown under the symbols or at the top of figures.
-  - The projection of a mission location - PSP (blue diamond), Solar Orbiter (orange square), Earth (green circle) on the source surface (blue, orange, green crosses) and down to the solar wind source region (blue, orange, green circles) calculated for the height R = 1.2Rs and measured (or predicted)  in situ solar wind speed ± 80 km s<sup>−1</sup> .
-  - Open magnetic ﬁeld regions shown in blue (negative) and yellow-green (positive), the neutral line is in black bold.
 
 {% include image.html url="/assets/images/Fig1_E8_predictiton11_PSP_SO.png" description="April 3, 2021 prediction for E8" %}
 
@@ -31,6 +30,13 @@ Notations in figures:
 {% include image.html url="/assets/images/Fig3_20210414_PFSS_B2_Earth_SO_superposition.png" description="April 14, 2021 magnetic map and connectivity prediction for E8. This gives the possibility to study evolution of the  solar wind properties from the same solar sources as PSP will observe a few weeks later." %}
 
 {% include image.html url="/assets/images/20210417_PFSS_B2_PSP_SO_E8_2.png" description="April 17, 2021 18:00 UT magnetic map and connectivity predictions for E8: PSP connections shown for April 17, 28 and 29; Solar Orbiter connections shown for April 17." %}
+
+{% include image.html url="/assets/images/20210417_ADO_AIA193.png" description="SDO AIA image corresponding to the above Apr 17 map" %}
+
+## Notations in figures
+  - Source maps and mission magnetic connectivity: PFSS magnetic pressure contour maps and solar wind magnetic foot-points along the PSP, Solar Orbiter and Earth trajectories for the time shown under the symbols or at the top of figures.
+  - The projection of a mission location - PSP (blue diamond), Solar Orbiter (orange square), Earth (green circle) on the source surface (blue, orange, green crosses) and down to the solar wind source region (blue, orange, green circles) calculated for the height R = 1.2Rs and measured (or predicted)  in situ solar wind speed ± 80 km s<sup>−1</sup> .
+  - Open magnetic ﬁeld regions shown in blue (negative) and yellow-green (positive), the neutral line is in black bold.
 
 ## About our modeling
 We use the PFSS model developed by [Schrijver & De Rosa (2003)](https://ui.adsabs.harvard.edu/abs/2003SoPh..212..165S).
@@ -76,7 +82,7 @@ url={https://ui.adsabs.harvard.edu/link_gateway/2003SoPh..212..165S/doi:10.1023/
   doi={10.1051/0004-6361/202038245},
   url={https://ui.adsabs.harvard.edu/link_gateway/2020A&A...642A...4V/doi:10.1051/0004-6361/202038245},
   title={Understanding the origins of the heliosphere: integrating observations and measurements from Parker Solar Probe, Solar Orbiter, and other space-and ground-based observatories},
-  author={Velli, M and Harra, LK and Vourlidas, A and Schwadron, N and Panasenco, O and Liewer, PC and M{\"u}ller, D and Zouganelis, I and St Cyr, OC and Gilbert, H and others},
+  author={Velli, M and Harra, LK and Vourlidas, A and Schwadron, N and Panasenco, O and Liewer, PC and M{\"u}ller, D and Zouganelis, I and St Cyr, OC and Gilbert, H et al.},
   journal={Astronomy \& Astrophysics},
   volume={642},
   pages={A4},
