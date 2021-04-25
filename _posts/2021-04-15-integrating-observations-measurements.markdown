@@ -17,7 +17,7 @@ Magnetic connections for PSP, Solar Orbiter and 1au in support of the [WHPI camp
 
 {% include image.html url="/assets/images/20210423_0600_PFSS_B2_Rss2.5_R1.2_E8.png" description="The spacecraft and Earth positions and magnetic connections for 23 April 2021 (E8)." %}
 
-{% include image.html url="/assets/images/20210423_ADO_AIA193.png" description="SDO AIA image corresponding to the above Apr 23 map" %}
+{% include image.html url="/assets/images/20210423_SDO_AIA193.png" description="SDO AIA image corresponding to the above Apr 23 map" %}
 
 ## Earlier predictions for PSP Encounter 8
 
@@ -31,7 +31,7 @@ Synergies between PSP, Solar Orbiter and 1 au observations
 
 {% include image.html url="/assets/images/20210417_PFSS_B2_PSP_SO_E8_2.png" description="April 17, 2021 18:00 UT magnetic map and connectivity predictions for E8: PSP connections shown for April 17, 28 and 29; Solar Orbiter connections shown for April 17." %}
 
-{% include image.html url="/assets/images/20210417_ADO_AIA193.png" description="SDO AIA image corresponding to the above Apr 17 map" %}
+{% include image.html url="/assets/images/20210417_SDO_AIA193.png" description="SDO AIA image corresponding to the above Apr 17 map" %}
 
 ## Notations in figures
   - Source maps and mission magnetic connectivity: PFSS magnetic pressure contour maps and solar wind magnetic foot-points along the PSP, Solar Orbiter and Earth trajectories for the time shown under the symbols or at the top of figures.
