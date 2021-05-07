@@ -13,6 +13,10 @@ The launch of Parker Solar Probe (PSP) in 2018, followed by Solar Orbiter (SO) i
 Magnetic connections for PSP, Solar Orbiter and 1au in support of the [WHPI campaign](https://whpi.hao.ucar.edu/whpi_campaign-psp8p.php). Modeling results will be updated regularly.
 
 ## Current predictions, actual positions and magnetic connections for PSP Encounter 8
+{% include image.html url="/assets/images/20210507_1200_PFSS_B2_Rss2.5_R1.2_PSP_SO_E8.png" description="Earth, PSP and Solar Orbiter positions and magnetic connections on May 7, 2021. PSP and Earth magnetically connected to the same open magnetic flux region and measuring properties of the same solar wind stream." %}
+
+{% include image.html url="/assets/images/20210507_SDO_AIA_193.png" description="SDO AIA image corresponding to the above May 7 map" %}
+
 {% include image.html url="/assets/images/20210430_PFSS_B2_PSP_SO_E8.png" description="Earth, PSP and Solar Orbiter current positions (Apr 30, 2021). PSP and Solar Orbiter magnetically connected to the same open magnetic flux region and measuring properties of the same solar wind stream." %}
 
 {% include image.html url="/assets/images/20210430_SDO_AIA193.png" description="SDO AIA image corresponding to the above Apr 30 map" %}
