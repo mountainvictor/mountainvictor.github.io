@@ -10,7 +10,7 @@ description: >
   Victor's Outdoor Blog
 url: http://themountainproject.github.io
 
-twitter_username: thomasvaeth
+twitter_username: viclw17
 default_img: /assets/images/favicon.ico
 
 social:
@@ -26,11 +26,11 @@ social:
     # url: 
 
 # Contact settings
-contact_img: /assets/images/placeholder-28.jpg
+contact_img: /assets/images/2022-08-07-brunswick/IMG_0394.JPG
 formcarry: https://formcarry.com/s/HkIo0nMb7
 
 # Disqus settings
-disqus: test-apkdzgmqhj
+# disqus: test-apkdzgmqhj
 
 # MailChimp settings
 mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
@@ -70,7 +70,7 @@ autopages:
 # Build settings
 markdown: kramdown
 plugins:
-  - jekyll-paginate-v2
+  # - jekyll-paginate-v2
   - jekyll-sitemap
 compress_html:
   clippings: all
@@ -85,3 +85,6 @@ exclude:
   - gulpfile.js
   - package.json
   - README.md
+sass:
+    sass_dir: _assets/scss
+    style: compressed
