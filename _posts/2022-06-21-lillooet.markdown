@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Lillooet"
+date: 2022-06-21
+description: 
+image: /assets\images\2022-06-21-lillooet\IMG_7633.jpeg
+# author: Thomas Vaeth
+tags: 
+  - hiking
+  - summit
+  - provincial park
+---
+Guaranteed rugged.
