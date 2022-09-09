@@ -5,10 +5,10 @@ permalink: /:year/:month/:day/:title/
 google_analytics: 
 
 name: Victor Li
-title: Victor's Mountain Notes
+title: the Mountains Are Calling
 description: >
-  Victor's Mountain Notes
-url: http://mountainvictor.github.io
+  Victor's Outdoor Blog
+url: http://themountainproject.github.io
 
 twitter_username: thomasvaeth
 default_img: /assets/images/favicon.ico
