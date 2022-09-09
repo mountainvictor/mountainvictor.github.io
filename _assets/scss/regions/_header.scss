@@ -25,15 +25,15 @@
 
   @media (min-width: $mq-small) {
     padding: {
-      right: 2em;
-      left: 2em;
+      right: 4em;
+      left:  2em;
     }
   }
 
   &__title {
     @extend %font-header;
 
-    font-size: $font-xsmall;
+    font-size: $font-small;
     color: $color-black;
   }
 
