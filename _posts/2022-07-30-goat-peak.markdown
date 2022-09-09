@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Goat Peak"
+date: 2022-07-30
+description: 
+image: \assets\images\2022-07-30-goat-peak\IMG_6336.JPEG
+# author: Thomas Vaeth
+tags: 
+  - hiking
+  - summit
+  - provincial park
+---
+Summitting a peak during heat wave.
