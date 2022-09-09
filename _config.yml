@@ -1,16 +1,18 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: noreply@example.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Thomas Vaeth
-title: The Barber Theme
+name: Victor Li
+title: Victor's Mountain Notes
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
+  Victor's Mountain Notes
+url: http://mountainvictor.github.io
+
 twitter_username: thomasvaeth
-default_img: /assets/images/seo.jpg
+default_img: /assets/images/favicon.ico
+
 social:
   - name: twitter
     url: https://twitter.com/thomasvaeth
@@ -36,9 +38,9 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+  - name: Victor Li
+    bio: 
+    url: 
 
 # Pagination settings
 pagination:
