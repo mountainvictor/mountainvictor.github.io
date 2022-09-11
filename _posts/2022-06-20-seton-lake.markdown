@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seton Lake"
+title: "Lillooet Road Trip - Traverse Lillooet Ranges over Cayoosh Pass to Seton Lake"
 date: 2022-06-20
 description: 
 image: /assets\images\2022-06-20-seton-lake\IMG_3077.jpeg
