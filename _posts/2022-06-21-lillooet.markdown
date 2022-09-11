@@ -2,48 +2,113 @@
 layout: post
 title: "Lillooet Road Trip - Cruising Along Lillooet Ranges' East Border"
 date: 2022-06-21
-description: 
 image: /assets/images/2022-06-21-lillooet/IMG_7633.jpeg
-# author: Thomas Vaeth
-tags: 
-  - hiking
-  - summit
-  - provincial park
 ---
-Guaranteed rugged.
+<blockquote>
+  <p>"Guaranteed Rugged."</p>
+</blockquote>
+
+Last day of the road trip. Depart Lillooet heading to Hope then back to Vancouver.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=18Fz9DSCZHIBOv9BXNI8HiEsMuWnS0dQ&ehbc=2E312F" width="640" height="480"></iframe>
 
-![Placeholder](/assets/images/2022-06-21-lillooet/IMG_3502.jpeg)
+Packed up at **BC Hydro Seton Lake Campsite** and headed to Lillooet to check on the town. 
 
-![Placeholder](/assets/images/2022-06-21-lillooet/IMG_3513.jpeg)
+# Lillooet
+It was obvious to see why the town motto is **Guaranteed Rugged** - just look around all the crazy terrain surrounding the area.
 
-![Placeholder](/assets/images/2022-06-21-lillooet/IMG_3531.jpeg)
+### Mountains Around Lillooet
+The town located at the north end of [**Lillooet Ranges**](https://en.wikipedia.org/wiki/Lillooet_Ranges), which is one of the main 3 mountain areas visited during this road trip (the other 2 are **Garibaldi Area** and **North Vancouver Ranges**). Right by the town to its South is _Mount Brew(2891m)_ which is the 3rd highest mountain of Lillooet Ranges.
 
-![Placeholder](/assets/images/2022-06-21-lillooet/IMG_3543.jpeg)
+![](/assets/images/2022-06-21-lillooet/ScreenShot-ranges.png#full)
 
-![Placeholder](/assets/images/2022-06-21-lillooet/IMG_3559.jpeg)
+To its west is the east end of **Pemberton-Bralorne Area** - **Mission Ridge**, with its highest mountain _Mount McLean(2427m)_ nearby.
 
-![Placeholder](/assets/images/2022-06-21-lillooet/IMG_3659.jpeg)
+To its east is a row of steep peaks of **Fountain Ridge** which belongs to **Clear Range**. From here to the east will enter the plateau areas of BC and therefore Lillooet marked the east boarder of the **South Pacific Ranges** of the **Coast Mountains**.
 
-![Placeholder](/assets/images/2022-06-21-lillooet/IMG_3607.jpeg)
+Above all the mountain situations, of course we got **Fraser River** flowing through North to South carving the valley ever deeper.
 
-![Placeholder](/assets/images/2022-06-21-lillooet/IMG_3612.jpeg#full)
+![](/assets/images/2022-06-21-lillooet/IMG_3502.jpeg)
 
-![Placeholder](/assets/images/2022-06-21-lillooet/IMG_3674.jpeg)
+### Fountain Valley Drive
+Instead of driving towards Lytton via Hwy 12 we decided to detour Fountain Valley to check out the area. It is right behind the Fountain Ridge and mainly resided by first nation communities. Main camping opportunity is at Kwotlenemo Lake Recreation Site located right at the middle. The road starts super nice but has many signs warning the worse road condition towards the end of the drive, which proven quite true. Eventually the road decents and merge into Hwy 12.
 
-Approaching Yale, mountains stay garding the road side.
+![](/assets/images/2022-06-21-lillooet/IMG_3513.jpeg)
 
-![Placeholder](/assets/images/2022-06-21-lillooet/IMG_3679.jpeg)
+# Lytton
 
-The omnipotent shop by the highway at Yale - Barry's Trading Post.
+Lytton is another rather significant small town on the way geographically speaking. It is at the convergence of **Lilloet Ranges**, **Clear Range** and **Nicoamen Plateau**, as well as the confluence of **Fraser River** and **Thompson River**. It is also the main entrance of the fancinating [**Stein Valley Provinvial Park**](https://en.wikipedia.org/wiki/Stein_Valley_Nlaka'pamux_Heritage_Park). 
 
-![Placeholder](/assets/images/2022-06-21-lillooet/IMG_3689.jpeg)
+More specifically, to its west is the [**Cantilever Range**](https://en.wikipedia.org/wiki/Cantilever_Range) which is the highest sector of Lillooet Ranges and is crowned by *Skihist Mountain*, which stands 2968 m (9738 ft) in elevation, making it the highest mountain in southwestern British Columbia.
 
-![Placeholder](/assets/images/2022-06-21-lillooet/IMG_3710.jpeg)
+### Stein Valley and Cantilever Range
+Stein Valley is extremely long valley reaching deep into the mountains from north west side of Lytton. It hosts the Stein River.
 
-![Placeholder](/assets/images/2022-06-21-lillooet/IMG_3733.jpeg)
+The name "Stein" comes from the Nlaka'pamux word "stagyn", which means "hidden place". This land is an important spiritual land for the First Nations in the area. The park was added to UNESCO's tentative list of World Heritage Sites.
 
-Thanks for the ride Fraser River. Though the water is at an extreme high level because of the melting water during the early summer.
+Cantilever Range is the mountain range at the south side of Stein Valley with its highest mountain Skihist.
 
-![Placeholder](/assets/images/2022-06-21-lillooet/IMG_3742.jpeg#full)
+![](/assets/images/2022-06-21-lillooet/ScreenShot-lytton.png#full)
+### Heading to Lytton
+![](/assets/images/2022-06-21-lillooet/IMG_3531.jpeg)
+
+However, Lytton sufferred a great lose during the 2021 flood and heatwave. Flood damaged the highway in many areas and heatwaves caused wild fire which almost destroyed the whole town.
+
+![](/assets/images/2022-06-21-lillooet/IMG_3543.jpeg)
+
+Main street of Lytton looking devastated. Signs put on to advise not to stay or open the car window as the air still contain chemical from the fire.
+
+![](/assets/images/2022-06-21-lillooet/IMG_3552.jpeg)
+
+The only access to Stein Valley - Lytton Ferry is also out of opertation due to the flooding, so sadly we were not able to check on the valley entrance or even go for a short hike.
+
+![](/assets/images/2022-06-21-lillooet/IMG_3559.jpeg)
+
+# Nahatlatch River Area
+As an alternative plan, we decided to check out the supposedly more accessible Nahatlatch area. It is another long valley hosts the Nahatlatch River. To reach the river entrance we had to drive further to Boston Bar to cross Fraser via the only bridge close by. The goal was to reach Nahatlatch Lake to potentially camp at Squakum Campground. Nahatlatch Fire Lookout would also be another interesting place to check maybe the day after.
+
+However, the flooding season is really ruining everything. When reached Log Creek Rec Site, right at the gateway of Nahatlatch Lake Provincial Park, we found out the road had been destroyed by flood came down from Kookipi Creek. We ended up camping on the spot of Log Creek and hiked over the destroyed road side to check on Frances Lake.
+
+![](/assets/images/2022-06-21-lillooet/IMG_3607.jpeg)
+
+Nelson seems happy with the campsite tho.
+
+![](/assets/images/2022-06-21-lillooet/IMG_3659.jpeg)
+
+# Boston Bar to Yale
+### Hells Gate
+It would be cool to try the airtram to experience the narrowest and deepest section of Fraser River yet the attraction was closed that day.
+
+![](/assets/images/2022-06-21-lillooet/IMG_7747.jpeg)
+
+Just thought we wouldn't be more unlucky, Alexandra Bridge was also under protective construction. Yet we still managed to snap a few shots of this historic landmark.
+
+![](/assets/images/2022-06-21-lillooet/IMG_3674.jpeg)
+
+Approaching Yale, mountains stay sharp guarding the road side.
+
+![](/assets/images/2022-06-21-lillooet/IMG_3679.jpeg)
+
+### Yale
+A rather sad small town came into existance mainly because of the gold rush.
+
+![](/assets/images/2022-06-21-lillooet/IMG_3684.jpeg)
+
+The omnipotent shop by the highway at Yale - Barry's Trading Post. Gold panning supplies even on sale.
+
+![](/assets/images/2022-06-21-lillooet/IMG_3689.jpeg)
+
+# Reaching Hope
+After briefly checking the campsite of Emory Creek Provincial Park, we found a nice hidden gem - Lake of the Woods.
+
+![](/assets/images/2022-06-21-lillooet/IMG_3710.jpeg)
+
+Main street of Hope, with Ogilvie Peak in the back drop.
+
+![](/assets/images/2022-06-21-lillooet/IMG_3733.jpeg)
+
+Final sight of Fraser River from Hope. The water is at an extreme high level because of the melting water during the early summer.
+
+![](/assets/images/2022-06-21-lillooet/IMG_3742.jpeg#full)
+
+The End.
