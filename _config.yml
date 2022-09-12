@@ -1,4 +1,6 @@
 # Site/SEO settings
+port: 4001
+
 email: noreply@example.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
