@@ -2,7 +2,7 @@
 layout: post
 title: "Joffre Lakes"
 date: 2022-09-04
-image: /assets/images/2022-08-18-joffre-lakes/IMG_0336.JPG
+image: /assets/images/2022-08-18-joffre-lakes/IMG_7859.JPEG
 ---
 Overnight camping at Joffre Lakes Provincial Park.
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Lillooet Road Trip - Pemberton Area and Birkenhead Provincial Park"
 date: 2022-06-19 
-image: /assets/images/2022-06-19-birkenhead/IMG_2901.jpeg
+image: /assets/images/2022-06-19-birkenhead/IMG_7507.jpeg
 
 ---
 Deeper into the Pemberton area.
@@ -18,7 +18,7 @@ Deeper into the Pemberton area.
 ![](/assets/images/2022-06-19-birkenhead/IMG_2827.jpeg#full)
 
 # Birkenhead Provincial Park
-![](/assets/images/2022-06-19-birkenhead/IMG_7507.jpeg#full)
+![](/assets/images/2022-06-19-birkenhead/IMG_2901.jpeg)
 
 ![](/assets/images/2022-06-19-birkenhead/IMG_6731.jpeg)
 

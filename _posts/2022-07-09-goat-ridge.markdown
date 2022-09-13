@@ -2,7 +2,7 @@
 layout: post
 title: "Goat Ridge"
 date: 2022-07-09
-image: /assets/images/2022-07-09-goat-ridge/IMG_6872.jpg
+image: /assets/images/2022-07-09-goat-ridge/IMG_6870.jpeg
 ---
 Gruesome hike to the first viewpoint.
 
@@ -12,5 +12,7 @@ Gruesome hike to the first viewpoint.
 ![](/assets\images\2022-07-09-goat-ridge\IMG_5435_crop.jpg)
 
 ![](/assets\images\2022-07-09-goat-ridge\IMG_6870.jpeg)
+
+![](/assets\images\2022-07-09-goat-ridge\IMG_6872.jpg)
 
 More to come...

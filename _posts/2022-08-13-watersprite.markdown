@@ -2,7 +2,7 @@
 layout: post
 title: "Watersprite Lake"
 date: 2022-08-13
-image: /assets/images/2022-08-13-watersprite/IMG_0467.JPG
+image: /assets/images/2022-08-13-watersprite/IMG_0577.JPG
 ---
 Watersprite lake summer route
 
@@ -12,7 +12,8 @@ Watersprite lake summer route
 # Watersprite Lake
 ![](/assets/images/2022-08-13-watersprite/IMG_0475.JPG)
 
-![](/assets/images/2022-08-13-watersprite/IMG_0492.JPG)
+<!-- ![](/assets/images/2022-08-13-watersprite/IMG_0492.JPG) -->
+![](/assets/images/2022-08-13-watersprite/IMG_0467.JPG)
 
 ![](/assets/images/2022-08-13-watersprite/IMG_0596.JPG#full)
 

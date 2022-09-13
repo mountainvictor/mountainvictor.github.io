@@ -2,7 +2,7 @@
 layout: post
 title: "Mt. Brunswick"
 date: 2022-08-07
-image: /assets/images/2022-08-07-brunswick/IMG_6798.JPEG
+image: /assets/images/2022-08-07-brunswick/IMG_6932.JPEG
 ---
 North shore highest mountain.
 
