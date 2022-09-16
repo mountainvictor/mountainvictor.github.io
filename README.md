@@ -1,3 +1,3 @@
 # Peaks And Valleys
 
-![](assets/images/logos/logo4.jpg)
+![](assets/images/logos/title_long.png)
