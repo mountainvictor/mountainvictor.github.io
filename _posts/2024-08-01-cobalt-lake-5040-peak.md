@@ -2,7 +2,7 @@
 layout: post
 title: "Vancouver Island Roadtrip - Cobalt Lake and 5040 Peak"
 date: 2024-08-01
-image: /assets/images/2022-09-04-needle-peak/IMG_1369.JPG
+image: assets/images/2024-08-01-cobalt-lake-5040-peak/IMG_2028.jpeg
 ---
 Intro here...
 
