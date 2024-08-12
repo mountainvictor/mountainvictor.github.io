@@ -6,7 +6,7 @@ image: /assets/images/2024-08-01-cobalt-lake-5040-peak/IMG_2028.jpeg
 ---
 Nestled on Vancouver Island - between **Port Alberni** and the popular coastal destinations of **Ucluelet and Tofino**, 5040 Peak presents a challenging ascent that leads to spectacular views and an immersive experience in the wild beauty of Vancouver Island. 
 
-For those from or familiar with Vancouver, 5040 Peak has an incline comparable to the famed **Grouse Grind**, minus the well-maintained stairs. The rugged terrain is **a mix of tree roots, exposed rocks, with sections that require navigating ropes**, making it a true test of endurance and skill. 
+The hike is 6.9km out-and-back with an elevation gain of 930m. For those from or familiar with Vancouver, its incline is comparable to the famed **Grouse Grind**, minus the well-maintained stairs. The rugged terrain is **a mix of tree roots, exposed rocks, with sections that require navigating ropes**, making it a true test of endurance and skill. 
 
 <iframe class="alltrails" src="https://www.alltrails.com/widget/recording/afternoon-hike-at-5040-peak-via-cobalt-lake-trail-b20bb95?u=m&sh=7jx9kf" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
 
@@ -57,17 +57,20 @@ The FSR was recently repaired in May/June 2024, thanks to the ACC contacting loc
 As it was rainy Tuesday, we started the hike later than we normally would, around noon. To our surprise, despite the weather and the fact that it was a weekday, we were still greeted by around 10 hikers at the traihead, and met another 5-6 groups of hikers on the way up. On a sunny summer weekend, the trail will easily be packed so you'll want to start ideally before 9am or after 4pm to avoid traffic.
 
 ## Final Checks before Starting
-We made sure our backpacks were covered properly with rain covers, and changed into our waterproof rain shell and rain pants. We also wore breathable, sweat-wicking base layers - from experience, the least pleasant thing hiking in the rain is overheating in damp, form-fitting base layers.
 
-Also make sure to:
-1) Download any map you may need beforehand - without saying, there is no cell reception throughout the trail.
+1) Dress for thhe weather: We made sure our backpacks were covered properly with rain covers, and changed into our waterproof rain shell and rain pants. We also wore breathable, sweat-wicking base layers - from experience, the least pleasant thing hiking in the rain is overheating in damp, form-fitting base layers.
+2) Bring abundant water - 1L ~ 1.5L recommended. For example, We went through 1L of water each for the hike up with 35L and 50L backpacks respectively.
+3) Bring bug repellent spray: Lots of mosquitos on the trail, and they tend to be worse during sunset/sunrise.
+4) Download any map you may need beforehand - without saying, there is no cell reception throughout the trail.
+5) Lock your vehicle - we encountered a hiker who forgot to lock theirs and had to head back to do so. Although it's a fairly safe area, you can never be too careful!
+6) Bring hiking poles. They truly make a difference. We personally did not use them too much when hiking up, but they were a gamechanger on the way down - especially when the trail was muddy and slippery.
 
-2) Lock your vehicle - we encountered a hiker who forgot to lock theirs and had to head back to do so. Although it's a fairly safe area, you can never be too careful!
-
-3) Bring hiking poles. They truly make a difference. We personally did not use them too much when hiking up, but they were a gamechanger on the way down - especially when the trail was muddy and slippery.
 
 ## The Relentless Incline
-As soon as we started, we were enveloped by lush tree branches and tree roots.  
+As soon as we started, we were enveloped by lush tree branches and tree roots. 
+
+The trail is also narrow so make sure you let faster hikers pass.
+
 
 
 TBC
