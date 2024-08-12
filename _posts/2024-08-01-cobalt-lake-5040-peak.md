@@ -91,4 +91,4 @@ After another 200m elevation gain and 500m distance, we arrived at the Hut at 13
 
 We decided to camp here and rest up for the night, hoping it would clear up and we'd get to see the mountain views when we wake up.
 
-There is also a small waterfall/stream near the bear cache past the wildflowers. If you did not fill up water by the lake, this stream is an alternative to the drinking pond by the Hut. We would recommend the stream - at least it is running water!
+There is also a small waterfall/stream near the bear cache past the wildflowers. If you did not fill up water by the lake, this stream is an alternative to the drinking pond by the Hut. We would recommend the stream as it's at least running water!
