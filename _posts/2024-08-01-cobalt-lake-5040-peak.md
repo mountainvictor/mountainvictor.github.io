@@ -66,12 +66,12 @@ As it was rainy Tuesday, we started the hike later than we normally would, aroun
 
 ## Final Checks before Starting
 
-1) Dress for the weather: We made sure our backpacks were covered properly with rain covers, and changed into our waterproof rain shell and rain pants. We also wore breathable, sweat-wicking base layers - from experience, the least pleasant thing hiking in the rain is overheating in damp, form-fitting base layers.
-2) Bring abundant water - 1L ~ 1.5L recommended. For example, We went through 1L of water each for the hike up with 35L and 50L backpacks respectively.
-3) Bring bug repellent spray: Lots of mosquitos on the trail, and they tend to be worse during sunset/sunrise.
-4) Download any map you may need beforehand - without saying, there is no cell reception throughout the trail.
-5) Lock your vehicle - we encountered a hiker who forgot to lock theirs and had to head back to do so. Although it's a fairly safe area, you can never be too careful!
-6) Bring hiking poles. They truly make a difference. We personally did not use them too much when hiking up, but they were a gamechanger on the way down - especially when the trail was muddy and slippery.
+- Dress for the weather: We made sure our backpacks were covered properly with rain covers, and changed into our waterproof rain shell and rain pants. We also wore breathable, sweat-wicking base layers - from experience, the least pleasant thing hiking in the rain is overheating in damp, form-fitting base layers.
+- Bring abundant water - 1L ~ 1.5L recommended. For a rough idea, We went through 1L of water each for the hike up carrying 35L and 50L backpacks respectively.
+- Bring bug repellent spray: Lots of mosquitos on the trail, and they tend to be worse during sunset/sunrise.
+- Download any map you may need beforehand - without saying, there is no cell reception throughout the trail.
+- Lock your vehicle - we encountered a hiker who forgot to lock theirs and had to head back to do so. Although it's a fairly safe area, you can never be too careful!
+- Bring hiking poles. They truly make a difference. We personally did not use them too much when hiking up, but they were a gamechanger on the way down - especially when the trail was muddy and slippery.
 
 
 ![](/assets/images/2024-08-01-cobalt-lake-5040-peak/IMG_1473.JPEG)
@@ -81,14 +81,21 @@ As soon as we started, we were enveloped by lush tree branches and tangled roots
 
 It is worth mentioning the path is quite narrow, so make sure to let faster hikers pass.
 
-The first break spot is a **bluff lookout** after a challenging 300 meters of elevation gain in merely 1km distance. After a quick rest, we pressed on and soon arrived at **Cobalt Lake** after passing through a beautiful little waterfall and meadow. This was another 100m elevation gain and 500m distance. 
+### Bluff
+The first break spot is a **bluff lookout** after a challenging 300 meters of elevation gain in merely 1km distance. 
+
+### Cobalt Lake
+After a quick rest, we pressed on and soon arrived at **Cobalt Lake** after passing through a beautiful little waterfall and meadow. This was another 100m elevation gain and 500m distance. 
 
 Many hikers opt to camp here and summit the peak lightweight the next day. There are lots of flat ground around the lake don't sweat about finding a spot. There's also an outhouse nearby.
 
 **If you're choosing to push further and camp by the hut or up the ridge, be sure to fill up water supply here at the lake. There technically is a clean pond by the hut that's for drinking, but we found it to be quite dried out and dirty.**
 
+### The Hut
 After another 200m elevation gain and 500m distance, we arrived at the Hut at 1350m on the ridge. There is a sign right before the Hut detailing drinking water source and other safety info - make sure to read and familiarize. An outhouse and bear cache are also available nearby.
 
 We decided to camp here and rest up for the night, hoping it would clear up and we'd get to see the mountain views when we wake up.
 
 There is also a small waterfall/stream near the bear cache past the wildflowers. If you did not fill up water by the lake, this stream is an alternative to the drinking pond by the Hut. We would recommend the stream as it's at least running water!
+
+### The High Alpine Ridge and Summiting the Peak
