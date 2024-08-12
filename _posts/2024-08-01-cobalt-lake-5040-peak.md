@@ -63,6 +63,7 @@ The FSR was recently repaired in May/June 2024, thanks to the ACC contacting loc
 # The Hike Up
 As it was rainy Tuesday, we started the hike later than we normally would, around noon. To our surprise, despite the weather and the fact that it was a weekday, we were still greeted by around 10 hikers at the traihead, and met another 5-6 groups of hikers on the way up. On a sunny summer weekend, the trail will easily be packed so you'll want to start ideally before 9am or after 4pm to avoid traffic.
 
+![](/assets/images/2024-08-01-cobalt-lake-5040-peak/IMG_1483.JPEG)
 
 ## Final Checks before Starting
 
@@ -81,11 +82,17 @@ As soon as we started, we were enveloped by lush tree branches and tangled roots
 
 It is worth mentioning the path is quite narrow, so make sure to let faster hikers pass.
 
+![](/assets/images/2024-08-01-cobalt-lake-5040-peak/IMG_2418.JPEG)
+
+
 ### Bluff
 The first break spot is a **bluff lookout** after a challenging 300 meters of elevation gain in merely 1km distance. 
 
 ### Cobalt Lake
-After a quick rest, we pressed on and soon arrived at **Cobalt Lake** after passing through a beautiful little waterfall and meadow. This was another 100m elevation gain and 500m distance. 
+After a quick rest, we pressed on and soon arrived at **Cobalt Lake** after passing through a beautiful little waterfall and meadow. This was another 100m elevation gain and 500m distance.
+
+![](/assets/images/2024-08-01-cobalt-lake-5040-peak/IMG_1574.JPEG)
+
 
 Many hikers opt to camp here and summit the peak lightweight the next day. There are lots of flat ground around the lake don't sweat about finding a spot. There's also an outhouse nearby.
 
@@ -94,8 +101,16 @@ Many hikers opt to camp here and summit the peak lightweight the next day. There
 ### The Hut
 After another 200m elevation gain and 500m distance, we arrived at the Hut at 1350m on the ridge. There is a sign right before the Hut detailing drinking water source and other safety info - make sure to read and familiarize. An outhouse and bear cache are also available nearby.
 
+![](/assets/images/2024-08-01-cobalt-lake-5040-peak/IMG_1639.JPEG)
+
+
 We decided to camp here and rest up for the night, hoping it would clear up and we'd get to see the mountain views when we wake up.
+
+![](/assets/images/2024-08-01-cobalt-lake-5040-peak/IMG_1645.JPEG)
+
 
 There is also a small waterfall/stream near the bear cache past the wildflowers. If you did not fill up water by the lake, this stream is an alternative to the drinking pond by the Hut. We would recommend the stream as it's at least running water!
 
 ### The High Alpine Ridge and Summiting the Peak
+
+TBC
