@@ -18,14 +18,14 @@ ol {
   ol,
   ul:not(.post__social) {
     margin: {
-      bottom: 1.5rem;
+      bottom: 5px;//1.5rem;
       left: 1em;
     }
 
     font-size: 1.1em;
 
     @media (min-width: $mq-small) {
-      font-size: 1.25em;
+      font-size: 18px;//1.25em;
     }
 
     & > li {
