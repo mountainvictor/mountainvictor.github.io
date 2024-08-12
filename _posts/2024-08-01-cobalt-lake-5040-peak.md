@@ -42,6 +42,8 @@ In light of this, we’ve adjusted our plan: to brave the rain and hike up on Tu
 # Arriving at the trailhead
 If you are not from the area and travelling like us, Ucluelet and Port Alberni are both close options to stay the night before. Both towns are ~ **1 hour away** from the trailhead.
 
+![](/assets/images/2024-08-01-cobalt-lake-5040-peak/IMG_1448.JPEG)
+
 We stayed at Ucluelet and in the morning, enjoyed a coffee and breakfast at [The Barkley Cafe](https://thebarkleycafe.com/) before hitting the road. 
 
 We also highly recommend [The Break Cafe & Bistro](https://www.instagram.com/thebreakcafebistro/?hl=en) - their coffee and pastry options are amazing and just the comfort you'll need before a hike. They are however closed on Wednesdas and Thursdays - make sure you double check operation hours before you go.
@@ -50,11 +52,16 @@ We followed Google Maps to get to the [trailhead](https://maps.app.goo.gl/5mgYVM
 
 The important thing is to follow Google Maps to turn onto the **Marion Main Forest Service Road** - it is quite a hidden pathway and easy to miss if you're driving fast and not actively following map instructions.
 
+![](/assets/images/2024-08-01-cobalt-lake-5040-peak/IMG_1455.JPEG)
+
 ## FSR Condition
-The FSR was recently repaired in May/June 2024, thanks to the ACC contacting local services. Almost any sedan will get up to the trailhead, but a 4x4 is still recommended for keeping the gravel road intact. If you're tackling the trail in winter months, make sure to check snow conditions via [DriveBC webcam at Taylor River] (https://images.drivebc.ca/bchighwaycam/pub/html/www/207.html) or [Sentinel Hub] (https://browser.dataspace.copernicus.eu/?zoom=14&lat=49.19155&lng=-125.30457&themeId=DEFAULT-THEME&datasetId=S2_L2A_CDAS&fromTime=2024-02-12T00%3A00%3A00.000Z&toTime=2024-08-12T00%3A00%3A00.000Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=100&dateMode=MOSAIC) - both resources recommended by ACC.
+The FSR was recently repaired in May/June 2024, thanks to the ACC contacting local services. Almost any sedan will get up to the trailhead, but a 4x4 is still recommended for keeping the gravel road intact. If you're tackling the trail in winter months, make sure to check snow conditions via [DriveBC webcam at Taylor River](https://images.drivebc.ca/bchighwaycam/pub/html/www/207.html) or [Sentinel Hub](https://browser.dataspace.copernicus.eu/?zoom=14&lat=49.19155&lng=-125.30457&themeId=DEFAULT-THEME&datasetId=S2_L2A_CDAS&fromTime=2024-02-12T00%3A00%3A00.000Z&toTime=2024-08-12T00%3A00%3A00.000Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=100&dateMode=MOSAIC) - both resources recommended by ACC.
+
+![](/assets/images/2024-08-01-cobalt-lake-5040-peak/IMG_1457.JPEG)
 
 # The Hike Up
 As it was rainy Tuesday, we started the hike later than we normally would, around noon. To our surprise, despite the weather and the fact that it was a weekday, we were still greeted by around 10 hikers at the traihead, and met another 5-6 groups of hikers on the way up. On a sunny summer weekend, the trail will easily be packed so you'll want to start ideally before 9am or after 4pm to avoid traffic.
+
 
 ## Final Checks before Starting
 
@@ -65,6 +72,8 @@ As it was rainy Tuesday, we started the hike later than we normally would, aroun
 5) Lock your vehicle - we encountered a hiker who forgot to lock theirs and had to head back to do so. Although it's a fairly safe area, you can never be too careful!
 6) Bring hiking poles. They truly make a difference. We personally did not use them too much when hiking up, but they were a gamechanger on the way down - especially when the trail was muddy and slippery.
 
+
+![](/assets/images/2024-08-01-cobalt-lake-5040-peak/IMG_1473.JPEG)
 
 ## The Relentless Incline
 As soon as we started, we were enveloped by lush tree branches and tree roots. 
