@@ -30,8 +30,7 @@ Alternatively, if you would like a more modern experience, The Alpine Hut is res
 ## Check the weather!
 Days leading up to the hike, we used [Klitsa Mountain - mountain-forecast.com](https://www.mountain-forecast.com/peaks/Klitsa-Mountain/forecasts/1000) (near 5040 Peak) to check the weather forecast. We strongly recommend utilizing this resource to adjust your hiking plans accordingly, even in hot summer days where you would think rain probability is low. Pacific Northwest weather is mysterious and that just means today could be hot and sunny, but the next day soaking wet.
 
-### Our experience with the weather
-Personal experience of how the weather forecast helped our planning:
+### Personal experience of how the weather forecast helped our planning:
 We initially intended to camp 2 nights (Monday Jul 29th and Tuesday Jul 30th), and head down on Wednesday Jul 31. 
 
 However, the weather forecast predicted rain for both Monday and Tuesday, with the cloud base expected to be lower than the peak, meaning we'd be shrouded in clouds throughout without views. 
@@ -45,7 +44,7 @@ If you are not from the area and travelling like us, Ucluelet and Port Alberni a
 
 We stayed at Ucluelet and in the morning, enjoyed a coffee and breakfast at [The Barkley Cafe](https://thebarkleycafe.com/) before hitting the road. 
 
-We also highly recommend [The Break Cafe & Bistro](https://www.instagram.com/thebreakcafebistro/?hl=en) - their coffee and pastry options are amazing and just the comfort you'll need before a hike. They are however closed on Wednesdas and Thursdays, make sure you double check operation hours before you go.
+We also highly recommend [The Break Cafe & Bistro](https://www.instagram.com/thebreakcafebistro/?hl=en) - their coffee and pastry options are amazing and just the comfort you'll need before a hike. They are however closed on Wednesdas and Thursdays - make sure you double check operation hours before you go.
 
 We followed Google Maps to get to the [trailhead](https://maps.app.goo.gl/5mgYVMWjBvtqmzeT6). The map does end earlier than the actual, final trailhead, but once you're on the FSR, there's only one route and you won't miss it: **just keep driving until you see vehicles parked and a small info board on the left indicating trailhead**. 
 
@@ -55,8 +54,20 @@ The important thing is to follow Google Maps to turn onto the **Marion Main Fore
 The FSR was recently repaired in May/June 2024, thanks to the ACC contacting local services. Almost any sedan will get up to the trailhead, but a 4x4 is still recommended for keeping the gravel road intact. If you're tackling the trail in winter months, make sure to check snow conditions via [DriveBC webcam at Taylor River] (https://images.drivebc.ca/bchighwaycam/pub/html/www/207.html) or [Sentinel Hub] (https://browser.dataspace.copernicus.eu/?zoom=14&lat=49.19155&lng=-125.30457&themeId=DEFAULT-THEME&datasetId=S2_L2A_CDAS&fromTime=2024-02-12T00%3A00%3A00.000Z&toTime=2024-08-12T00%3A00%3A00.000Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=100&dateMode=MOSAIC) - both resources recommended by ACC.
 
 # The Hike Up
-As it was raining, we started the hike later than we normally would, around noon. To our surprise, despite the weather and the fact that it was a weekday, we were still greeted by around 10 hikers at the traihead, and met another 5-6 groups of hikers on the way up. On a sunny summer weekend, the trail will easily be packed so you'll want to start ideally before 9am or after 4pm to avoid traffic.
+As it was rainy Tuesday, we started the hike later than we normally would, around noon. To our surprise, despite the weather and the fact that it was a weekday, we were still greeted by around 10 hikers at the traihead, and met another 5-6 groups of hikers on the way up. On a sunny summer weekend, the trail will easily be packed so you'll want to start ideally before 9am or after 4pm to avoid traffic.
 
+## Final Checks before Starting
+We made sure our backpacks were covered properly with rain covers, and changed into our waterproof rain shell and rain pants. We also wore breathable, sweat-wicking base layers - from experience, the least pleasant thing hiking in the rain is overheating in damp, form-fitting base layers.
+
+Also make sure to:
+1) Download any map you may need beforehand - without saying, there is no cell reception throughout the trail.
+
+2) Lock your vehicle - we encountered a hiker who forgot to lock theirs and had to head back to do so. Although it's a fairly safe area, you can never be too careful!
+
+3) Bring hiking poles. They truly make a difference. We personally did not use them too much when hiking up, but they were a gamechanger on the way down - especially when the trail was muddy and slippery.
+
+## The Relentless Incline
+As soon as we started, we were enveloped by lush tree branches and tree roots.  
 
 
 TBC
