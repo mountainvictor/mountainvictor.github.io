@@ -19,8 +19,9 @@ The hike is 6.9km out-and-back with an elevation gain of 930m. For those from or
 ## Campsite options
 There are a couple of camping options, including
 
-- at **Cobalt Lake**, at the 1350m ridge by the *Hišimy̓awiƛ Hut*, and 
-- at the 1450m **ridge** right before summiting the peak. 
+- at **Cobalt Lake**
+- at 1350m by the **Hišimy̓awiƛ Hut** 
+- at the 1450m **high alpine ridge** right before summiting the peak. 
 
 
 The spots are **first-come, first-serve and backcountry reservations are not required**. 
@@ -30,7 +31,7 @@ Alternatively, if you would like a more modern experience, The Alpine Hut is res
 ## Check the weather!
 Days leading up to the hike, we used [Klitsa Mountain - mountain-forecast.com](https://www.mountain-forecast.com/peaks/Klitsa-Mountain/forecasts/1000) (near 5040 Peak) to check the weather forecast. We strongly recommend utilizing this resource to adjust your hiking plans accordingly, even in hot summer days where you would think rain probability is low. Pacific Northwest weather is mysterious and that just means today could be hot and sunny, but the next day soaking wet.
 
-### Personal experience of how the weather forecast helped our planning:
+### How the weather forecast helped our planning:
 We initially intended to camp 2 nights (Monday Jul 29th and Tuesday Jul 30th), and head down on Wednesday Jul 31. 
 
 However, the weather forecast predicted rain for both Monday and Tuesday, with the cloud base expected to be lower than the peak, meaning we'd be shrouded in clouds throughout without views. 
@@ -65,7 +66,7 @@ As it was rainy Tuesday, we started the hike later than we normally would, aroun
 
 ## Final Checks before Starting
 
-1) Dress for thhe weather: We made sure our backpacks were covered properly with rain covers, and changed into our waterproof rain shell and rain pants. We also wore breathable, sweat-wicking base layers - from experience, the least pleasant thing hiking in the rain is overheating in damp, form-fitting base layers.
+1) Dress for the weather: We made sure our backpacks were covered properly with rain covers, and changed into our waterproof rain shell and rain pants. We also wore breathable, sweat-wicking base layers - from experience, the least pleasant thing hiking in the rain is overheating in damp, form-fitting base layers.
 2) Bring abundant water - 1L ~ 1.5L recommended. For example, We went through 1L of water each for the hike up with 35L and 50L backpacks respectively.
 3) Bring bug repellent spray: Lots of mosquitos on the trail, and they tend to be worse during sunset/sunrise.
 4) Download any map you may need beforehand - without saying, there is no cell reception throughout the trail.
@@ -76,10 +77,18 @@ As it was rainy Tuesday, we started the hike later than we normally would, aroun
 ![](/assets/images/2024-08-01-cobalt-lake-5040-peak/IMG_1473.JPEG)
 
 ## The Relentless Incline
-As soon as we started, we were enveloped by lush tree branches and tree roots. 
+As soon as we started, we were enveloped by lush tree branches and tangled roots, which were slick from the rain. Hiking poles would have been useful for maintaining balance, but with a heavy backpack, we found it better to use our bare hands for scrambling.
 
-The trail is also narrow so make sure you let faster hikers pass.
+It is worth mentioning the path is quite narrow, so make sure to let faster hikers pass.
 
+The first break spot is a **bluff lookout** after a challenging 300 meters of elevation gain in merely 1km distance. After a quick rest, we pressed on and soon arrived at **Cobalt Lake** after passing through a beautiful little waterfall and meadow. This was another 100m elevation gain and 500m distance. 
 
+Many hikers opt to camp here and summit the peak lightweight the next day. There are lots of flat ground around the lake don't sweat about finding a spot. There's also an outhouse nearby.
 
-TBC
+**If you're choosing to push further and camp by the hut or up the ridge, be sure to fill up water supply here at the lake. There technically is a clean pond by the hut that's for drinking, but we found it to be quite dried out and dirty.**
+
+After another 200m elevation gain and 500m distance, we arrived at the Hut at 1350m on the ridge. There is a sign right before the Hut detailing drinking water source and other safety info - make sure to read and familiarize. An outhouse and bear cache are also available nearby.
+
+We decided to camp here and rest up for the night, hoping it would clear up and we'd get to see the mountain views when we wake up.
+
+There is also a small waterfall/stream near the bear cache past the wildflowers. If you did not fill up water by the lake, this stream is an alternative to the drinking pond by the Hut. We would recommend the stream - at least it is running water!
