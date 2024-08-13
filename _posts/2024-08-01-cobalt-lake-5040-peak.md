@@ -40,6 +40,25 @@ Fortunately, the forecast indicated that the rain will stop and skies will begin
 
 In light of this, we’ve adjusted our plan: to brave the rain and hike up on Tuesday afternoon, camp, and make the most of the improved weather conditions on Wednesday before descending.
 
+Weather forecast from [mountain-forecast.com](https://www.mountain-forecast.com/peaks/Klitsa-Mountain/forecasts/1000):
+
+| Day 1 | Day 2 |
+| -------- | ------- |
+| ![](/assets/images/2024-08-01-cobalt-lake-5040-peak/IMG_0980.PNG)  | ![](/assets/images/2024-08-01-cobalt-lake-5040-peak/IMG_0981.PNG)   |
+
+View at the campsite:
+
+| Tuesday Afternoon   | Wednesday Morning |
+| -------- | ------- |
+| ![](/assets/images/2024-08-01-cobalt-lake-5040-peak/IMG_1743.JPEG)  | ![](/assets/images/2024-08-01-cobalt-lake-5040-peak/IMG_1818.JPEG)   |
+
+View at Ucluelet town center:
+
+| Tuesday Morning   | Wednesday Afternoon |
+| -------- | ------- |
+| ![](/assets/images/2024-08-01-cobalt-lake-5040-peak/IMG_1436.JPEG)  | ![](/assets/images/2024-08-01-cobalt-lake-5040-peak/IMG_2447.JPEG)   |
+
+
 # Arriving at the trailhead
 If you are not from the area and travelling like us, Ucluelet and Port Alberni are both close options to stay the night before. Both towns are ~ **1 hour away** from the trailhead.
 
@@ -48,6 +67,9 @@ If you are not from the area and travelling like us, Ucluelet and Port Alberni a
 We stayed at Ucluelet and in the morning, enjoyed a coffee and breakfast at [The Barkley Cafe](https://thebarkleycafe.com/) before hitting the road. 
 
 We also highly recommend [The Break Cafe & Bistro](https://www.instagram.com/thebreakcafebistro/?hl=en) - their coffee and pastry options are amazing and just the comfort you'll need before a hike. They are however closed on Wednesdas and Thursdays - make sure you double check operation hours before you go.
+
+<!-- ![](/assets/images/2024-08-01-cobalt-lake-5040-peak/IMG_2834.JPEG) -->
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Coquihalla_Summit_Approach.jpg" alt="Grid Image" /> -->
 
 We followed Google Maps to get to the [trailhead](https://maps.app.goo.gl/5mgYVMWjBvtqmzeT6). The map does end earlier than the actual, final trailhead, but once you're on the FSR, there's only one route and you won't miss it: **just keep driving until you see vehicles parked and a small info board on the left indicating trailhead**. 
 
@@ -67,12 +89,18 @@ As it was rainy Tuesday, we started the hike later than we normally would, aroun
 
 ## Final Checks before Starting
 
-- Dress for the weather: We made sure our backpacks were covered properly with rain covers, and changed into our waterproof rain shell and rain pants. We also wore breathable, sweat-wicking base layers - from experience, the least pleasant thing hiking in the rain is overheating in damp, form-fitting base layers.
-- Bring abundant water - 1L ~ 1.5L recommended. For a rough idea, We went through 1L of water each for the hike up carrying 35L and 50L backpacks respectively.
-- Bring bug repellent spray: Lots of mosquitos on the trail, and they tend to be worse during sunset/sunrise.
-- Download any map you may need beforehand - without saying, there is no cell reception throughout the trail.
-- Lock your vehicle - we encountered a hiker who forgot to lock theirs and had to head back to do so. Although it's a fairly safe area, you can never be too careful!
-- Bring hiking poles. They truly make a difference. We personally did not use them too much when hiking up, but they were a gamechanger on the way down - especially when the trail was muddy and slippery.
+- Dress for the **weather**: 
+  - We made sure our backpacks were covered properly with rain covers, and changed into our waterproof rain shell and rain pants. We also wore breathable, sweat-wicking base layers - from experience, the least pleasant thing hiking in the rain is overheating in damp, form-fitting base layers.
+- Bring abundant **water**
+  - 1L ~ 1.5L recommended. For a rough idea, We went through 1L of water each for the hike up carrying 35L and 50L backpacks respectively.
+- Bring **bug repellent spray**: 
+  - Lots of mosquitos on the trail, and they tend to be worse during sunset/sunrise.
+- Download any **map** you may need beforehand - 
+  - without saying, there is no cell reception throughout the trail.
+- **Lock your vehicle** - 
+  - we encountered a hiker who forgot to lock theirs and had to head back to do so. Although it's a fairly safe area, you can never be too careful!
+- Bring **hiking poles**. 
+  - They truly make a difference. We personally did not use them too much when hiking up, but they were a gamechanger on the way down - especially when the trail was muddy and slippery.
 
 
 ![](/assets/images/2024-08-01-cobalt-lake-5040-peak/IMG_1473.JPEG)
