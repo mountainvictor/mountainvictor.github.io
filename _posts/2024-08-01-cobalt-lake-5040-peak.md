@@ -174,7 +174,7 @@ The ascent is quite steep, but halfway up, we were rewarded with a breathtaking 
 
 Once on the ridge, the terrain flattens out in comparison to the grueling climb, allowing us to relax and fully enjoy the stunning mountain vistas and alpine wildflowers. 
 
-As mentioned previously, campsite options are available up here, though they are not listed as preferred by the ACC. Note that no outhouse facility or bear cache is provided, but here is snow at this altitude that you can boil for drinking water.
+As mentioned previously, campsite options are available up here. **Note that no outhouse facility or bear cache is provided, but there is snow at this altitude that you can boil for drinking water.**
 
 After relishing the alpine playground and capturing countless photos, we noticed the fog beginning to roll back in. We thus headed down to pack up our tent and descend into the mist before it turned to rain.
 
