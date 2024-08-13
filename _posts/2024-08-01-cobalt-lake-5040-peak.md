@@ -26,7 +26,7 @@ The hike is 6.9km out-and-back with an elevation gain of 930m. For those from or
 
 Alternatively, if you would like a more modern experience, The Alpine Hut is reservable via the **Alpine Club of Canada** - Vancouver Island Section [website](https://accvi.ca/5040-peak-hut/).
 
-Reminder to follow [The 7 Principles of Leave No Trace] (https://lnt.org/why/7-principles/) if you're camping. 
+Reminder to follow [The 7 Principles of Leave No Trace](https://lnt.org/why/7-principles/) if you're camping. 
 
 ## Check the weather!
 Days leading up to the hike, we used [Klitsa Mountain - mountain-forecast.com](https://www.mountain-forecast.com/peaks/Klitsa-Mountain/forecasts/1000) (near 5040 Peak) to check the weather forecast. We strongly recommend utilizing this resource to adjust your hiking plans accordingly, even in hot summer days where you would think rain probability is low. Pacific Northwest weather is mysterious; today could be hot and sunny, but the next day soaking wet.
